@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Digital Humanitarian Network",
     "description": "",
-    "home_page_url": "https://DigitalHumanitarianNetwork.github.io/static_site",
-    "feed_url": "https://DigitalHumanitarianNetwork.github.io/static_site/feed.json",
+    "home_page_url": "https://static.digitalhumanitarians.com",
+    "feed_url": "https://static.digitalhumanitarians.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "DHN"
     },
     "items": [
         {
-            "id": "https://DigitalHumanitarianNetwork.github.io/static_site/post-1/",
-            "url": "https://DigitalHumanitarianNetwork.github.io/static_site/post-1/",
+            "id": "https://static.digitalhumanitarians.com/post-1/",
+            "url": "https://static.digitalhumanitarians.com/post-1/",
             "title": "Post 1",
             "summary": "Just a test post. To be removed",
             "content_html": "Just a test post. To be removed",

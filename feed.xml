@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Digital Humanitarian Network</title>
-    <link href="https://DigitalHumanitarianNetwork.github.io/static_site/feed.xml" rel="self" />
-    <link href="https://DigitalHumanitarianNetwork.github.io/static_site" />
-    <updated>2019-07-13T18:06:51-04:00</updated>
+    <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
+    <link href="https://static.digitalhumanitarians.com" />
+    <updated>2019-07-13T18:10:25-04:00</updated>
     <author>
         <name>DHN</name>
     </author>
-    <id>https://DigitalHumanitarianNetwork.github.io/static_site</id>
+    <id>https://static.digitalhumanitarians.com</id>
 
     <entry>
         <title>Post 1</title>
         <author>
             <name>DHN</name>
         </author>
-        <link href="https://DigitalHumanitarianNetwork.github.io/static_site/post-1/"/>
-        <id>https://DigitalHumanitarianNetwork.github.io/static_site/post-1/</id>
+        <link href="https://static.digitalhumanitarians.com/post-1/"/>
+        <id>https://static.digitalhumanitarians.com/post-1/</id>
 
         <updated>2019-07-12T20:39:44-04:00</updated>
             <summary>
