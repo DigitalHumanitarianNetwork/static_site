@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DHN",
+    "description": "",
+    "home_page_url": "https://DigitalHumanitarianNetwork.github.io/static_site",
+    "feed_url": "https://DigitalHumanitarianNetwork.github.io/static_site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DHN"
+    },
+    "items": [
+        {
+            "id": "https://DigitalHumanitarianNetwork.github.io/static_site/post-1.html",
+            "url": "https://DigitalHumanitarianNetwork.github.io/static_site/post-1.html",
+            "title": "Post 1",
+            "summary": "Just a test post. To be removed",
+            "content_html": "Just a test post. To be removed",
+            "author": {
+                "name": "DHN"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-12T20:39:44-04:00",
+            "date_modified": "2019-07-12T20:39:44-04:00"
+        }
+    ]
+}
