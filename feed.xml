@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>DHN</title>
+    <title>Digital Humanitarian Network</title>
     <link href="https://DigitalHumanitarianNetwork.github.io/static_site/feed.xml" rel="self" />
     <link href="https://DigitalHumanitarianNetwork.github.io/static_site" />
-    <updated>2019-07-12T20:41:58-04:00</updated>
+    <updated>2019-07-13T18:01:46-04:00</updated>
     <author>
         <name>DHN</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>DHN</name>
         </author>
-        <link href="https://DigitalHumanitarianNetwork.github.io/static_site/post-1.html"/>
-        <id>https://DigitalHumanitarianNetwork.github.io/static_site/post-1.html</id>
+        <link href="https://DigitalHumanitarianNetwork.github.io/static_site/post-1/"/>
+        <id>https://DigitalHumanitarianNetwork.github.io/static_site/post-1/</id>
 
         <updated>2019-07-12T20:39:44-04:00</updated>
             <summary>
