@@ -3,32 +3,12 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-07-14T09:03:30-04:00</updated>
+    <updated>2019-07-14T09:04:00-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://static.digitalhumanitarians.com</id>
 
-    <entry>
-        <title>About</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://static.digitalhumanitarians.com/about/"/>
-        <id>https://static.digitalhumanitarians.com/about/</id>
-
-        <updated>2019-07-14T09:03:01-04:00</updated>
-            <summary>
-                <![CDATA[
-                    This is a hidden post that can then be used as a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                This is a hidden post that can then be used as a page!
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Post 1</title>
         <author>

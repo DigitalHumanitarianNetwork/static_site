@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://static.digitalhumanitarians.com/about/",
-            "url": "https://static.digitalhumanitarians.com/about/",
-            "title": "About",
-            "summary": "This is a hidden post that can then be used as a&hellip;",
-            "content_html": "This is a hidden post that can then be used as a page!",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-07-14T09:03:01-04:00",
-            "date_modified": "2019-07-14T09:03:01-04:00"
-        },
-        {
             "id": "https://static.digitalhumanitarians.com/post-1/",
             "url": "https://static.digitalhumanitarians.com/post-1/",
             "title": "Post 1",
