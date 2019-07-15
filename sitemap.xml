@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://static.digitalhumanitarians.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://static.digitalhumanitarians.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://static.digitalhumanitarians.com/</loc>
+<loc>http://static.digitalhumanitarians.com/</loc>
 </url>
 <url>
-<loc>https://static.digitalhumanitarians.com/about/</loc>
-<lastmod>2019-07-14T09:03:01-04:00</lastmod>
+<loc>http://static.digitalhumanitarians.com/about.html</loc>
+<lastmod>2019-07-15T15:58:02-04:00</lastmod>
 </url>
 <url>
-<loc>https://static.digitalhumanitarians.com/post-1/</loc>
+<loc>http://static.digitalhumanitarians.com/archive.html</loc>
+<lastmod>2019-07-15T15:48:20-04:00</lastmod>
+</url>
+<url>
+<loc>http://static.digitalhumanitarians.com/materials.html</loc>
+<lastmod>2019-07-15T15:49:18-04:00</lastmod>
+</url>
+<url>
+<loc>http://static.digitalhumanitarians.com/partners.html</loc>
+<lastmod>2019-07-15T16:07:03-04:00</lastmod>
+</url>
+<url>
+<loc>http://static.digitalhumanitarians.com/post-1.html</loc>
 <lastmod>2019-07-12T20:39:44-04:00</lastmod>
 </url>
 </urlset>
