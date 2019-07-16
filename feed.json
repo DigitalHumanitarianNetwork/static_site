@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DHN",
     "description": "",
-    "home_page_url": "http://static.digitalhumanitarians.com",
-    "feed_url": "http://static.digitalhumanitarians.com/feed.json",
+    "home_page_url": "https://static.digitalhumanitarians.com",
+    "feed_url": "https://static.digitalhumanitarians.com/feed.json",
     "user_comment": "",
-    "icon": "http://static.digitalhumanitarians.com/media/website/DHN_LOGO_WHITE.png",
+    "icon": "https://static.digitalhumanitarians.com/media/website/DHN_LOGO_WHITE.png",
     "author": {
         "name": "DH Network"
     },
     "items": [
         {
-            "id": "http://static.digitalhumanitarians.com/post-1.html",
-            "url": "http://static.digitalhumanitarians.com/post-1.html",
+            "id": "https://static.digitalhumanitarians.com/post-1.html",
+            "url": "https://static.digitalhumanitarians.com/post-1.html",
             "title": "Post 1",
             "summary": "Just a test post. To be removed",
             "content_html": "Just a test post. To be removed",
