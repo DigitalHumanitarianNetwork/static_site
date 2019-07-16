@@ -3,30 +3,80 @@
     <title>DHN</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-07-16T12:27:48-04:00</updated>
+    <updated>2019-07-16T17:26:16-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://static.digitalhumanitarians.com</id>
 
     <entry>
-        <title>Post 1</title>
+        <title>About DHN</title>
         <author>
             <name>DH Network</name>
         </author>
-        <link href="https://static.digitalhumanitarians.com/post-1.html"/>
-        <id>https://static.digitalhumanitarians.com/post-1.html</id>
+        <link href="https://static.digitalhumanitarians.com/about.html"/>
+        <id>https://static.digitalhumanitarians.com/about.html</id>
 
-        <updated>2019-07-12T20:39:44-04:00</updated>
+        <updated>2019-07-16T16:00:59-04:00</updated>
             <summary>
                 <![CDATA[
-                    Just a test post. To be removed
+                    The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Just a test post. To be removed
+                <p>The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support of 21st century humanitarian response. More specifically, the aim of this <strong>network-of-networks</strong> is to form a consortium of Volunteer &amp; Technical Communities (V&amp;TCs) and to provide an interface between formal, professional humanitarian organizations and informal yet skilled-and-agile volunteer &amp; technical networks. Services offered by members of the DHNetwork are listedin the <a href="http://digitalhumanitarians.com/resource/dhn-catalogue" target="_self">DHN Catalogue</a>. We are taking an iterative approach in developing this interface and will expand membership to this network over time. <span style="text-decoration: underline;">Membership is by organization only</span>. </p>
+<p>The purpose of the <a href="http://digitalhumanitarians.com/team-member-type/dhn-coordinator" target="_self">DHN Coordinators</a> is to review activation-requests and rapidly liaise with the different volunteer &amp; technical teams who are members of the DHN to build a Solution Team best able to act on a request. The Coordinators aim to provide a response to every request within 24 hours. </p>
+<p>Please use #Digihums when tweeting about this network, thank you.</p>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity and Humanitarian Organizations - On a Collision Course?</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/cybersecurity-and-humanitarian-organizations-on-a-collision-course.html"/>
+        <id>https://static.digitalhumanitarians.com/cybersecurity-and-humanitarian-organizations-on-a-collision-course.html</id>
+
+        <updated>2019-07-16T14:28:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/6/cybersecurity-august2018.png" alt="" />
+                    In 2014, the United Nations Office for the Coordination of Humanitarian Affairs authored a policy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/6/cybersecurity-august2018.png" alt="" />
+                <p>In 2014, the United Nations Office for the Coordination of Humanitarian Affairs authored a policy paper entitled <a href="https://app.box.com/s/6bh4rt7ugmo1c7war9g8j4l5teee9f6y?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">Humanitarianism in the Age of Cyber-warfare</a>. Four years, and countless cybersecurity and data breach stories, later, <a href="https://www.linkedin.com/in/emma-m-amaral/" target="_blank" rel="noopener noreferrer">Emma Amaral</a> and I chatted about the topic over tea and pondered how things had changed. From that conversation, a couple research questions were formulated: (1) how has the cyber landscape changed and what has the response of humanitarian organizations been? and (2) what ethical responsibilities do humanitarian organizations have to protect data collected from people they are trying to help, and what basic precautions should they be expected to take?<strong><br></strong></p>
+<p>We found that humanitarian organizations had specifically become targets. And, sadly, we found that  few had changed their cybersecurity practices. Actually, many had begun collecting even more data and introduced more advanced technologies without understanding the potential risks. One of the interviewees summed up the organizations’ mentalities when they said: “<i>Since the 2014 OCHA cybersecurity report, humanitarian organizations are now a more informed cohort, and there is greater emphasis on community involvement regarding data use. However, this has not translated into practical applications of security practices.</i>” Essentially, organizations seem to know that something should be done, but few are dedicating the necessary attention and resources. Thinking about it, actioning it, and <a href="https://blogs.icrc.org/law-and-policy/2019/05/29/potential-human-costs-cyber-operations-key-icrc-takeaways-discussion-tech-experts/" target="_blank" rel="noopener noreferrer">talking about it publicly like the ICRC</a> [<a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">PDF</a>], is a great start. And, putting in place <a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">robust data policies are critical</a> [<a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">PDF</a>].</p>
+<p>As you can imagine, the research resulted in many very interesting, complex and multifaceted conversations. In the end, we have compiled our findings and recommendations into a paper entitled <i>Cybersecurity and Humanitarian Organizations - On a Collision Course</i>?</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fostering the Right Workspace - Strategic Considerations for the Humanitarian Sector</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/fostering-right-workspace.html"/>
+        <id>https://static.digitalhumanitarians.com/fostering-right-workspace.html</id>
+
+        <updated>2019-07-16T15:04:25-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Data Protection in the Humanitarian Sector - A Blockchain Approach</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/blockchain-approach.html"/>
+        <id>https://static.digitalhumanitarians.com/blockchain-approach.html</id>
+
+        <updated>2019-07-16T16:38:18-04:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
