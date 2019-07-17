@@ -3,12 +3,83 @@
     <title>DHN</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-07-16T17:26:16-04:00</updated>
+    <updated>2019-07-17T17:09:05-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://static.digitalhumanitarians.com</id>
 
+    <entry>
+        <title>Code of Conduct</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/code-of-conduct.html"/>
+        <id>https://static.digitalhumanitarians.com/code-of-conduct.html</id>
+
+        <updated>2019-07-17T17:01:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Code of Conduct, often referred to as a Code of Ethics, is a set of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p dir="ltr">Code of Conduct, often referred to as a Code of Ethics, is a set of rules outlining the responsibilities of or proper practices for an individual, party or organization. A Code of Conduct formalizes a number of acting principles and “minimum” standards: a body publishing its own Code of conduct commits itself to conform to these standards and expects the same from the individuals composing it and representing it.</p>
+<p dir="ltr">A number of DHN members have drafted their own Codes, which often overlap in their principles. New and existing DHN members are strongly encouraged to develop their own individual Codes of Conduct which they would abide to and which would apply to their respective pools of volunteers, in the aim of reflecting the ethical values and the professional standards upheld by the DHN as a whole.</p>
+<p dir="ltr"><strong>Codes produced by existing DHN members :</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><a href="http://gwob.org/about/code-of-collaboration/">GWOB Code of Collaboration</a> (also adopted by the <a href="https://wiki.ushahidi.com/display/WIKI/Code+of+Conduct">Ushahidi community</a>)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.giscorps.org/index.php?option=com_content&amp;task=view&amp;id=63&amp;Itemid=70">GISCorps Code of Conduct</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://community.amstat.org/SWB/CodeofConduct">Statistics without Borders' Code of Conduct</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.humanityroad.org/FAQRetrieve.aspx?ID=49330">Humanity Road's Code of Conduct and Ethics Pledge</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.unv.org/fileadmin/docs/conditions_of_service/COS_INTL_SPEC_20080901_.pdf">United Nations Volunteers Code of Conduct</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://docs.google.com/a/standbytaskforce.com/file/d/0B8j8PoWWdddLRVl0RW9DVDFJSDQ/edit" target="_blank" rel="noopener noreferrer">Standby Volunteer Task Force's Code of Conduct</a></p>
+</li>
+</ul>
+<p dir="ltr">Such codes are suggestive examples of how Codes of Conducts might be formulated and may serve as a starting point for new DHN members to establish their own Code.</p>
+<p dir="ltr"><strong>Further examples of Codes of Conduct established within international humanitarian response bodies include:</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.icrc.org/eng/assets/files/publications/icrc-002-1067.pdf">Code of Conduct for the International Red Cross and Red Crescent Movement and Non-Governmental Organisations in Disaster Relief</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://www.google.ch/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CDUQFjAB&amp;url=http%3A%2F%2Fwww.unicef.org%2Fpathtraining%2FDocuments%2FSession%25204%2520Humanitarian%2520Principles%2FParticipant%2520Manual%2F4.2%2520UNICEF%2520Humanitarian%2520Principles.doc&amp;ei=_DTMUauNNMGr7AaejoBo&amp;usg=AFQjCNG-yqtJ8wBal9kQdb6JpbF1CFYPrA&amp;sig2=xyny_70UXo_FA1jnPQWxow&amp;bvm=bv.48340889,d.ZGU">UNICEF's Humanitarian Principles</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.un.org/en/ethics/pdf/StandConIntCivSE.pdf">The United Nations standards of conduct for the international civil service</a></p>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Digital Humanitarian Network Overview Video</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html"/>
+        <id>https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html</id>
+
+        <updated>2019-07-17T16:35:23-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/scdb1XFVAyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About DHN</title>
         <author>
@@ -17,7 +88,7 @@
         <link href="https://static.digitalhumanitarians.com/about.html"/>
         <id>https://static.digitalhumanitarians.com/about.html</id>
 
-        <updated>2019-07-16T16:00:59-04:00</updated>
+        <updated>2019-07-17T16:25:35-04:00</updated>
             <summary>
                 <![CDATA[
                     The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support&hellip;
@@ -28,6 +99,8 @@
                 <p>The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support of 21st century humanitarian response. More specifically, the aim of this <strong>network-of-networks</strong> is to form a consortium of Volunteer &amp; Technical Communities (V&amp;TCs) and to provide an interface between formal, professional humanitarian organizations and informal yet skilled-and-agile volunteer &amp; technical networks. Services offered by members of the DHNetwork are listedin the <a href="http://digitalhumanitarians.com/resource/dhn-catalogue" target="_self">DHN Catalogue</a>. We are taking an iterative approach in developing this interface and will expand membership to this network over time. <span style="text-decoration: underline;">Membership is by organization only</span>. </p>
 <p>The purpose of the <a href="http://digitalhumanitarians.com/team-member-type/dhn-coordinator" target="_self">DHN Coordinators</a> is to review activation-requests and rapidly liaise with the different volunteer &amp; technical teams who are members of the DHN to build a Solution Team best able to act on a request. The Coordinators aim to provide a response to every request within 24 hours. </p>
 <p>Please use #Digihums when tweeting about this network, thank you.</p>
+<h2 id="mcetoc_1dg0pnhpu0">Contact</h2>
+<p>Any inquiries can be made to <a href="../../../../../" target="_blank" rel="noopener noreferrer">sdfsfdsafdsf.</a></p>
             ]]>
         </content>
     </entry>
@@ -39,19 +112,19 @@
         <link href="https://static.digitalhumanitarians.com/cybersecurity-and-humanitarian-organizations-on-a-collision-course.html"/>
         <id>https://static.digitalhumanitarians.com/cybersecurity-and-humanitarian-organizations-on-a-collision-course.html</id>
 
-        <updated>2019-07-16T14:28:21-04:00</updated>
+        <updated>2019-07-17T16:05:11-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://static.digitalhumanitarians.com/media/posts/6/cybersecurity-august2018.png" alt="" />
-                    In 2014, the United Nations Office for the Coordination of Humanitarian Affairs authored a policy&hellip;
+                    Written by Emma Amaral View PDF File
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://static.digitalhumanitarians.com/media/posts/6/cybersecurity-august2018.png" alt="" />
-                <p>In 2014, the United Nations Office for the Coordination of Humanitarian Affairs authored a policy paper entitled <a href="https://app.box.com/s/6bh4rt7ugmo1c7war9g8j4l5teee9f6y?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">Humanitarianism in the Age of Cyber-warfare</a>. Four years, and countless cybersecurity and data breach stories, later, <a href="https://www.linkedin.com/in/emma-m-amaral/" target="_blank" rel="noopener noreferrer">Emma Amaral</a> and I chatted about the topic over tea and pondered how things had changed. From that conversation, a couple research questions were formulated: (1) how has the cyber landscape changed and what has the response of humanitarian organizations been? and (2) what ethical responsibilities do humanitarian organizations have to protect data collected from people they are trying to help, and what basic precautions should they be expected to take?<strong><br></strong></p>
-<p>We found that humanitarian organizations had specifically become targets. And, sadly, we found that  few had changed their cybersecurity practices. Actually, many had begun collecting even more data and introduced more advanced technologies without understanding the potential risks. One of the interviewees summed up the organizations’ mentalities when they said: “<i>Since the 2014 OCHA cybersecurity report, humanitarian organizations are now a more informed cohort, and there is greater emphasis on community involvement regarding data use. However, this has not translated into practical applications of security practices.</i>” Essentially, organizations seem to know that something should be done, but few are dedicating the necessary attention and resources. Thinking about it, actioning it, and <a href="https://blogs.icrc.org/law-and-policy/2019/05/29/potential-human-costs-cyber-operations-key-icrc-takeaways-discussion-tech-experts/" target="_blank" rel="noopener noreferrer">talking about it publicly like the ICRC</a> [<a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">PDF</a>], is a great start. And, putting in place <a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">robust data policies are critical</a> [<a href="https://centre.humdata.org/introducing-the-working-draft-of-the-ocha-data-responsibility-guidelines/" target="_blank" rel="noopener noreferrer">PDF</a>].</p>
-<p>As you can imagine, the research resulted in many very interesting, complex and multifaceted conversations. In the end, we have compiled our findings and recommendations into a paper entitled <i>Cybersecurity and Humanitarian Organizations - On a Collision Course</i>?</p>
+                <p><a href="https://app.box.com/s/8d8iyqxe0083fp3o4xsqj87pb3c30cb0?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/emma-m-amaral/" target="_blank" rel="noopener noreferrer">Emma Amaral</a></p>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/8d8iyqxe0083fp3o4xsqj87pb3c30cb0?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
             ]]>
         </content>
     </entry>
@@ -63,9 +136,21 @@
         <link href="https://static.digitalhumanitarians.com/fostering-right-workspace.html"/>
         <id>https://static.digitalhumanitarians.com/fostering-right-workspace.html</id>
 
-        <updated>2019-07-16T15:04:25-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-07-17T16:05:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/7/fostering-workplace.png" alt="Fostering the Right Workspace" />
+                    Written by Emma Amaral View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/7/fostering-workplace.png" alt="Fostering the Right Workspace" />
+                <p><a href="https://app.box.com/s/rky2y85zajh7v0vez5hr4l0d8oz1z04w?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/emma-m-amaral/" target="_blank" rel="noopener noreferrer">Emma Amaral</a></p>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/rky2y85zajh7v0vez5hr4l0d8oz1z04w?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Data Protection in the Humanitarian Sector - A Blockchain Approach</title>
@@ -75,8 +160,116 @@
         <link href="https://static.digitalhumanitarians.com/blockchain-approach.html"/>
         <id>https://static.digitalhumanitarians.com/blockchain-approach.html</id>
 
-        <updated>2019-07-16T16:38:18-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-07-17T16:05:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/8/blockchainapproach.png" alt="Data Protection in the Humanitarian Sector - A Blockchain Approach" />
+                    Written by Irene Solaiman and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/8/blockchainapproach.png" alt="Data Protection in the Humanitarian Sector - A Blockchain Approach" />
+                <p id="mcetoc_1dg0dfs1q0"><a href="https://app.box.com/s/blaoqt4pvmcb7kpcxgileqg412jpgxbn?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="mailto:irs623@student.hks.harvard.edu" target="_blank" rel="noopener noreferrer">Irene Solaiman</a> and <a href="mailto:verity@un.org">Andrej Verity</a></p>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/blaoqt4pvmcb7kpcxgileqg412jpgxbn?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Resources for Situational Awareness in Humanitarian Emergencies</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/situational-awareness-emergencies.html"/>
+        <id>https://static.digitalhumanitarians.com/situational-awareness-emergencies.html</id>
+
+        <updated>2019-07-17T15:37:18-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/9/situatonal.png" alt="Resources for Situational Awareness in Humanitarian Emergencies" />
+                    Written by RJ Rei and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/9/situatonal.png" alt="Resources for Situational Awareness in Humanitarian Emergencies" />
+                Written by <a href="mailto:reidrjohn@gmail.com" target="_blank" rel="noopener noreferrer">RJ Rei</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/cuwq1xgolhq3g5yyudhdpoqyrny5ar20?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>7 Long-Term Trends in International Disaster Response Over the Past Century</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/long-term-trends.html"/>
+        <id>https://static.digitalhumanitarians.com/long-term-trends.html</id>
+
+        <updated>2019-07-17T16:17:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/10/sovereignty.png" alt="7 Long-Term Trends in International Disaster Response Over the Past Century" />
+                    Written by RJ Rei and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/10/sovereignty.png" alt="7 Long-Term Trends in International Disaster Response Over the Past Century" />
+                Written by <a href="mailto:reidrjohn@gmail.com" target="_blank" rel="noopener noreferrer">RJ Rei</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/x2bpcx2yr3bhfo7pl86l7i3wkchcy1hh?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Crowd-Sourced Reviews of Aid Delivery: A Distant Dream or a Soon-to-Be Reality?</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/crowd-sourced-aid-delivery.html"/>
+        <id>https://static.digitalhumanitarians.com/crowd-sourced-aid-delivery.html</id>
+
+        <updated>2019-07-17T16:20:34-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/11/crowd-sourced-aid-delivery.png" alt="Crowd-Sourced Reviews of Aid Delivery: A Distant Dream or a Soon-to-Be Reality?" />
+                    Written by Jeremy M. Andrews and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/11/crowd-sourced-aid-delivery.png" alt="Crowd-Sourced Reviews of Aid Delivery: A Distant Dream or a Soon-to-Be Reality?" />
+                Written by <a href="mailto:jm.andrews@mail.utoronto.ca" target="_blank" rel="noopener noreferrer">Jeremy M. Andrews</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/f9utl26oru2qkcmp6bmomvqr4f5rqsuf?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blockchain for the Humanitarian Sector - Future Opportunities</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/blockchain-for-humanitarian-sector.html"/>
+        <id>https://static.digitalhumanitarians.com/blockchain-for-humanitarian-sector.html</id>
+
+        <updated>2019-07-17T16:23:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/12/blockchain-humanitarian-sector.png" alt="Blockchain for the Humanitarian Sector - Future Opportunities" />
+                    Written by Vanessa Ko and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/12/blockchain-humanitarian-sector.png" alt="Blockchain for the Humanitarian Sector - Future Opportunities" />
+                Written by <a href="https://www.linkedin.com/in/vanessaeko/" target="_blank" rel="noopener noreferrer">Vanessa Ko</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/3wldc121g9u9priqwkjuzcsvk3ucf77i?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
     </entry>
 </feed>
