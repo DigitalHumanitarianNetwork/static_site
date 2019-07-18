@@ -27,7 +27,7 @@
         {
             "id": "https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html",
             "url": "https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html",
-            "title": "Digital Humanitarian Network Overview Video",
+            "title": "Overview",
             "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/scdb1XFVAyE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>",
             "author": {
                 "name": "DH Network"
@@ -35,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2019-07-17T16:26:59-04:00",
-            "date_modified": "2019-07-17T16:35:23-04:00"
+            "date_modified": "2019-07-18T12:33:50-04:00"
         },
         {
             "id": "https://static.digitalhumanitarians.com/about.html",
