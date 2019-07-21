@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>DHN</title>
+    <title>Digital Humanitarian Network</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-07-18T13:16:09-04:00</updated>
+    <updated>2019-07-21T15:00:16-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://static.digitalhumanitarians.com</id>
 
     <entry>
-        <title>Code of Conduct</title>
+        <title>Materials Page temp</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/materials-page-temp.html"/>
+        <id>https://static.digitalhumanitarians.com/materials-page-temp.html</id>
+
+        <updated>2019-07-18T13:31:39-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Code of Conduct (Archive)</title>
         <author>
             <name>DH Network</name>
         </author>
         <link href="https://static.digitalhumanitarians.com/code-of-conduct.html"/>
         <id>https://static.digitalhumanitarians.com/code-of-conduct.html</id>
 
-        <updated>2019-07-17T17:01:22-04:00</updated>
+        <updated>2019-07-21T14:49:50-04:00</updated>
             <summary>
                 <![CDATA[
                     Code of Conduct, often referred to as a Code of Ethics, is a set of&hellip;
@@ -65,14 +77,14 @@
         </content>
     </entry>
     <entry>
-        <title>Overview</title>
+        <title>Overview (Archive)</title>
         <author>
             <name>DH Network</name>
         </author>
         <link href="https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html"/>
         <id>https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video.html</id>
 
-        <updated>2019-07-18T12:33:50-04:00</updated>
+        <updated>2019-07-21T14:50:07-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -245,30 +257,6 @@
                 Written by <a href="mailto:jm.andrews@mail.utoronto.ca" target="_blank" rel="noopener noreferrer">Jeremy M. Andrews</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
 <p> </p>
 <a class="pdf-button" href="https://app.box.com/s/f9utl26oru2qkcmp6bmomvqr4f5rqsuf?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blockchain for the Humanitarian Sector - Future Opportunities</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://static.digitalhumanitarians.com/blockchain-for-humanitarian-sector.html"/>
-        <id>https://static.digitalhumanitarians.com/blockchain-for-humanitarian-sector.html</id>
-
-        <updated>2019-07-17T16:23:05-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://static.digitalhumanitarians.com/media/posts/12/blockchain-humanitarian-sector.png" alt="Blockchain for the Humanitarian Sector - Future Opportunities" />
-                    Written by Vanessa Ko and Andrej Verity View PDF File
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://static.digitalhumanitarians.com/media/posts/12/blockchain-humanitarian-sector.png" alt="Blockchain for the Humanitarian Sector - Future Opportunities" />
-                Written by <a href="https://www.linkedin.com/in/vanessaeko/" target="_blank" rel="noopener noreferrer">Vanessa Ko</a> and <a href="mailto:verity@un.org">Andrej Verity</a>
-<p> </p>
-<a class="pdf-button" href="https://app.box.com/s/3wldc121g9u9priqwkjuzcsvk3ucf77i?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
             ]]>
         </content>
     </entry>
