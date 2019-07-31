@@ -3,7 +3,7 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-07-29T14:39:52-04:00</updated>
+    <updated>2019-07-31T12:19:13-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
@@ -174,15 +174,16 @@
         <link href="https://static.digitalhumanitarians.com/about.html"/>
         <id>https://static.digitalhumanitarians.com/about.html</id>
 
-        <updated>2019-07-29T14:33:14-04:00</updated>
+        <updated>2019-07-31T12:10:24-04:00</updated>
             <summary>
                 <![CDATA[
-                    The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support&hellip;
+                    TO BE REWORKED The purpose of the Digital Humanitarian Network (DHN) is to leverage digital&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support of 21st century humanitarian response. More specifically, the aim of this <strong>network-of-networks</strong> is to form a consortium of Volunteer &amp; Technical Communities (V&amp;TCs) and to provide an interface between formal, professional humanitarian organizations and informal yet skilled-and-agile volunteer &amp; technical networks. Services offered by members of the DHNetwork are listedin the <a href="http://digitalhumanitarians.com/resource/dhn-catalogue" target="_self">DHN Catalogue</a>. We are taking an iterative approach in developing this interface and will expand membership to this network over time. <span style="text-decoration: underline;">Membership is by organization only</span>. </p>
+                <p><strong>TO BE REWORKED</strong></p>
+<p>The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support of 21st century humanitarian response. More specifically, the aim of this <strong>network-of-networks</strong> is to form a consortium of Volunteer &amp; Technical Communities (V&amp;TCs) and to provide an interface between formal, professional humanitarian organizations and informal yet skilled-and-agile volunteer &amp; technical networks. Services offered by members of the DHNetwork are listedin the <a href="http://digitalhumanitarians.com/resource/dhn-catalogue" target="_self">DHN Catalogue</a>. We are taking an iterative approach in developing this interface and will expand membership to this network over time. <span style="text-decoration: underline;">Membership is by organization only</span>. </p>
 <p>The purpose of the <a href="http://digitalhumanitarians.com/team-member-type/dhn-coordinator" target="_self">DHN Coordinators</a> is to review activation-requests and rapidly liaise with the different volunteer &amp; technical teams who are members of the DHN to build a Solution Team best able to act on a request. The Coordinators aim to provide a response to every request within 24 hours. </p>
 <p>Please use #Digihums when tweeting about this network, thank you.</p>
 <h2 id="mcetoc_1dg0pnhpu0">Contact</h2>
@@ -191,7 +192,7 @@
 <div class="grid-container post-grid founders">
 <div class="grid-item">
 <figure><img class="founder-photo" src="https://static.digitalhumanitarians.com/media/posts/2/andr.jpg">
-<figcaption><strong>Andrej Verity</strong> <br>UN Office for the Coordination of Humanitarian Affairs <br> <a href="mailto:verity@un.org">verity@un.org</a><br>
+<figcaption><strong>Andrej Verity</strong> <br><a href="mailto:verity@un.org">verity@un.org</a><br>
 <p>Andrej Verity is an information management officer at the United Nations (UN) Office for the Coordination of Humanitarian Affairs (OCHA) in New York and a co-founder of the Digital Humanitarian Network. Between responding to emergencies, he leads OCHA's multi-skilled Digital Services team providing strategic end-to-end service development, integrating and promoting standards and taxonomies, and managing platform-as-a-service support to a variety of sites ranging from ReliefWeb to the Humanitarian Data Exchange to the Financial Tracking Service to unocha.org. Verity has been working in the information management field for over 15 years, with the last 12 in the humanitarian realm. He has responded to many of the recent, major sudden onset emergencies - the 2010 Haiti earthquake, the 2010 Pakistan floods, the 2013-14 Philippines typhoon and the 2015 Nepal earthquake. Throughout the year, he spends time reflecting on his experiences and authoring forward-looking community papers such as the recent Blockchain for the Humanitarian Sector: Future opportunities (Dec 2016). Andrej openly shares his ideas in hopes to find energetic collaborative partners to help move the humanitarian community forward.</p>
 </figcaption>
 </figure>
