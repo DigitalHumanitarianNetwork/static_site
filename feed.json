@@ -14,8 +14,8 @@
             "id": "https://static.digitalhumanitarians.com/activation-diagram-archive/",
             "url": "https://static.digitalhumanitarians.com/activation-diagram-archive/",
             "title": "Activation Diagram (Archive)",
-            "summary": "View Diagram",
-            "content_html": "<p><a class=\"pdf-button\" href=\"../../../../../Activation-Process-Diagram_v1-md.png\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">View Diagram</a></p>",
+            "summary": "View Diagram ",
+            "content_html": "<p><a class=\"pdf-button\" href=\"../../../../../Activation-Process-Diagram_v1-md.png\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">View Diagram</a></p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://static.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png\" alt=\"\" width=\"1753\" height=\"1240\"></p>",
             "image": "https://static.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png",
             "author": {
                 "name": "DH Network"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-08-27T13:50:54-04:00",
-            "date_modified": "2019-08-27T13:54:04-04:00"
+            "date_modified": "2019-08-27T14:03:49-04:00"
         },
         {
             "id": "https://static.digitalhumanitarians.com/dh-network-community-interaction-diagram-archive/",
