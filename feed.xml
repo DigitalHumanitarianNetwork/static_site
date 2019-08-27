@@ -3,12 +3,57 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-08-27T12:51:22-04:00</updated>
+    <updated>2019-08-27T13:56:42-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://static.digitalhumanitarians.com</id>
 
+    <entry>
+        <title>Activation Diagram (Archive)</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/activation-diagram-archive/"/>
+        <id>https://static.digitalhumanitarians.com/activation-diagram-archive/</id>
+
+        <updated>2019-08-27T13:54:04-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png" alt="Basic Activation Process" />
+                    View Diagram
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png" alt="Basic Activation Process" />
+                <p><a class="pdf-button" href="../../../../../Activation-Process-Diagram_v1-md.png" target="_blank" rel="nofollow noopener noreferrer">View Diagram</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>DH Network Community Interaction Diagram (Archive)</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://static.digitalhumanitarians.com/dh-network-community-interaction-diagram-archive/"/>
+        <id>https://static.digitalhumanitarians.com/dh-network-community-interaction-diagram-archive/</id>
+
+        <updated>2019-08-27T13:50:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://static.digitalhumanitarians.com/media/posts/29/Screen-Shot-2019-08-27-at-1.50.28-PM.png" alt="DH Network Community Interaction Diagram " />
+                    View Document 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://static.digitalhumanitarians.com/media/posts/29/Screen-Shot-2019-08-27-at-1.50.28-PM.png" alt="DH Network Community Interaction Diagram " />
+                <p><a class="pdf-button" href="http://digitalhumanitarians.com/sites/default/files/resource-field_media/DH_Network_Interaction_Diagram_v1%281%29.pdf" target="_blank" rel="nofollow noopener noreferrer">View Document</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>After Action Reports (Archive)</title>
         <author>
@@ -17,7 +62,7 @@
         <link href="https://static.digitalhumanitarians.com/after-action-reports-archive/"/>
         <id>https://static.digitalhumanitarians.com/after-action-reports-archive/</id>
 
-        <updated>2019-07-29T10:13:26-04:00</updated>
+        <updated>2019-08-27T13:43:45-04:00</updated>
             <summary>
                 <![CDATA[
                     Guidance on Common Operational Datasets (CODs): Report includes compiled resources for future Common Operational Dataset&hellip;
@@ -25,15 +70,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="content">
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
-<div class="field-items">
-<div class="field-item even">
-<div><strong><a href="https://drive.google.com/file/d/0B6HB45QudldEU2xzNlB0YlVxNms/view?usp=sharing">Guidance on Common Operational Datasets (CODs)</a></strong>: Report includes compiled resources for future Common Operational Dataset (CODs) activations.
+                <strong><a href="https://drive.google.com/file/d/0B6HB45QudldEU2xzNlB0YlVxNms/view?usp=sharing">Guidance on Common Operational Datasets (CODs)</a></strong>: Report includes compiled resources for future Common Operational Dataset (CODs) activations.
 <p><strong><a href="https://docs.google.com/document/d/1qypMzKiVYOCSA8jr1MiZzpv0eIsV9dbVNXMq6i-6YXg/edit">Hurricane Matthew (Haiti) After Action Report</a></strong>: Report includes review of digital coordination, products and processes used, feedback, and recommendations.</p>
-</div>
-<div> </div>
-<div><strong><a href="https://docs.google.com/document/d/1JGsfEZJ4LT6gFDBfrGRc3sEVE5LkaOihFgjKa_NOCeI/edit?usp=sharing">Libyan 2017 Humanitarian Needs Overview (HNO)</a></strong>: Report highlights the methodology and results from leveraging volunteer capacity for a short-duration Secondary Data Review, including <a href="https://drive.google.com/drive/u/1/folders/0B0pBAbW62rZqYnoxQkJ6bi1yUDg">supporting resources</a>.</div>
+  <strong><a href="https://docs.google.com/document/d/1JGsfEZJ4LT6gFDBfrGRc3sEVE5LkaOihFgjKa_NOCeI/edit?usp=sharing">Libyan 2017 Humanitarian Needs Overview (HNO)</a></strong>: Report highlights the methodology and results from leveraging volunteer capacity for a short-duration Secondary Data Review, including <a href="https://drive.google.com/drive/u/1/folders/0B0pBAbW62rZqYnoxQkJ6bi1yUDg">supporting resources</a>.
 <p><a href="https://docs.google.com/document/d/1P4NTwrsrDCWKxRy6ZaAjMcuWgP553Bobmv-W6P1WUN4/edit#heading=h.kg4lr7aislwd"><strong>Ecuador Earthquake After Action Report</strong></a>: This was not a DHN activation, however it was an opportunity to further document best practices in digital response. Report includes background, digital coordination, products &amp; outcomes, as well as recommendations.</p>
 <p><strong>After Action report from the Nepal Coordinator</strong>:  This report highlights lessons learned over the past six months while serving as the Digital Humanitarian Coordinator, specifically highlighting recommendations, DHC outcomes, and strengths/weaknesses of current response procedure.</p>
 <ul>
@@ -41,10 +80,6 @@
 </ul>
 <p><a href="http://docs.google.com/document/d/1h3hL6o0YUmJUtUt2Z2hZyN73JCh0UdpS2eW9-TefmRY/edit?usp=sharing"><strong>DHN Activation for Cyclone Pam in Vanuatu After Action Report</strong></a>: The report includes information on the activation, participating DHN members and activities, resulting products with feedback, and lessons learned.   </p>
 <p><a href="http://docs.google.com/document/d/1eMWyvWA1XFOEc3F6u1AqJJ7InVLj8VMQyXku2v1LlMY/edit?usp=sharing"><strong>After Action report from the West Africa Ebola DHN Coordinator</strong></a>: This report highlights lessons learned over the past six months while serving as DHN Ebola Coordinator, specifically highlighting experience with extended digital response, health activation, as well as serving as the first full-time remote coordinator.</p>
-</div>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
@@ -56,7 +91,7 @@
         <link href="https://static.digitalhumanitarians.com/data-protection-archive/"/>
         <id>https://static.digitalhumanitarians.com/data-protection-archive/</id>
 
-        <updated>2019-07-29T10:10:03-04:00</updated>
+        <updated>2019-08-27T13:43:54-04:00</updated>
             <summary>
                 <![CDATA[
                     As Volunteer and Technical Communities (V&amp;TCs) may process significant amounts of Personally Identifiable Information (PII)&hellip;
@@ -82,18 +117,6 @@
 </ul>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Materials Page temp</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://static.digitalhumanitarians.com/materials-page-temp/"/>
-        <id>https://static.digitalhumanitarians.com/materials-page-temp/</id>
-
-        <updated>2019-07-18T13:31:39-04:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Code of Conduct (Archive)</title>
@@ -158,7 +181,7 @@
         <link href="https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video/"/>
         <id>https://static.digitalhumanitarians.com/digital-humanitarian-network-overview-video/</id>
 
-        <updated>2019-07-21T14:50:07-04:00</updated>
+        <updated>2019-08-27T13:44:06-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -297,30 +320,6 @@
 <div class="cat-item-label"><a href="https://app.box.com/s/elm7vp6eti8f2mf066wtdc8rtn24odp7" target="_blank" rel="nofollow noopener noreferrer">JUMP Guides for Surveys: Data Analysis</a></div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Data Protection in the Humanitarian Sector - A Blockchain Approach</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://static.digitalhumanitarians.com/blockchain-approach/"/>
-        <id>https://static.digitalhumanitarians.com/blockchain-approach/</id>
-
-        <updated>2019-07-24T11:37:02-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://static.digitalhumanitarians.com/media/posts/8/blockchainapproach.png" alt="Data Protection in the Humanitarian Sector - A Blockchain Approach" />
-                    Written by Irene Solaiman and Andrej Verity View PDF File
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://static.digitalhumanitarians.com/media/posts/8/blockchainapproach.png" alt="Data Protection in the Humanitarian Sector - A Blockchain Approach" />
-                <p id="mcetoc_1dg0dfs1q0"><a href="https://app.box.com/s/blaoqt4pvmcb7kpcxgileqg412jpgxbn?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="mailto:irs623@student.hks.harvard.edu" target="_blank" rel="noopener noreferrer">Irene Solaiman</a> and <a href="mailto:verity@un.org">Andrej Verity</a></p>
-<p> </p>
-<a class="pdf-button" href="https://app.box.com/s/blaoqt4pvmcb7kpcxgileqg412jpgxbn?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
             ]]>
         </content>
     </entry>
