@@ -3,7 +3,7 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://static.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://static.digitalhumanitarians.com" />
-    <updated>2019-08-29T14:18:50-04:00</updated>
+    <updated>2019-08-29T14:38:12-04:00</updated>
     <author>
         <name>DH Network</name>
     </author>
@@ -197,18 +197,18 @@
         <link href="https://static.digitalhumanitarians.com/about/"/>
         <id>https://static.digitalhumanitarians.com/about/</id>
 
-        <updated>2019-08-29T14:16:43-04:00</updated>
+        <updated>2019-08-29T14:38:04-04:00</updated>
             <summary>
                 <![CDATA[
-                    TO BE REWORKED The purpose of the Digital Humanitarian Network (DHN) is to leverage digital&hellip;
+                    History &amp; TodayAs the ability for people around the world to help disaster victims was&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>TO BE REWORKED</strong></p>
-<p>The purpose of the Digital Humanitarian Network (DHN) is to leverage digital volunteers in support of 21st century humanitarian response. More specifically, the aim of this <strong>network-of-networks</strong> is to form a consortium of Volunteer &amp; Technical Communities (V&amp;TCs) and to provide an interface between formal, professional humanitarian organizations and informal yet skilled-and-agile volunteer &amp; technical networks. Services offered by members of the DHNetwork are listedin the <a href="http://digitalhumanitarians.com/resource/dhn-catalogue" target="_self">DHN Catalogue</a>. We are taking an iterative approach in developing this interface and will expand membership to this network over time. <span style="text-decoration: underline;">Membership is by organization only</span>. </p>
-<p>The purpose of the <a href="http://digitalhumanitarians.com/team-member-type/dhn-coordinator" target="_self">DHN Coordinators</a> is to review activation-requests and rapidly liaise with the different volunteer &amp; technical teams who are members of the DHN to build a Solution Team best able to act on a request. The Coordinators aim to provide a response to every request within 24 hours. </p>
-<p>Please use #Digihums when tweeting about this network, thank you.</p>
+                <h2 id="mcetoc_1djf9snol0"><strong>History &amp; Today</strong></h2>
+<p>As the ability for people around the world to help disaster victims was enabled by modern technologies, several new types of groups and organizations began to form. However, many of the formal, traditional organizations were not sure how to access and collaborate with this capacity. So, in 2012, the Digital Humanitarian Network (DHN) was created to raise the awareness of these <a href="#INTERNAL_LINK#/post/3">new organizations</a>, provide a '<em><a href="#INTERNAL_LINK#/post/29">connecting service</a></em>', and develope <a href="#INTERNAL_LINK#/tag/4">guidance on how to work together</a>. </p>
+<p>Over the years, several <a href="#INTERNAL_LINK#/post/30">activiation requests</a> were supported. But, as both organization types matured, the need for the DHN has deminised (as originally expected). Formal organizations have added information management and digital capacity. New organizations have stablized and formed lasting partnerships. And, new services have emerged with funding such as the <a href="https://www.h2hworks.org/" target="_blank" rel="noopener noreferrer">H2H network</a> and FEMA Crowdsourcing.</p>
+<p> </p>
 <h2 id="mcetoc_1dg0pnhpu0">Contact</h2>
 <p>Any inquiries can be made to <a href="mailto:contact@digitalhumanitarians.com" class="external embeddable" title="mailto:contact@digitalhumanitarians.com">contact@digitalhumanitarians.com</a>.</p>
 <h2 id="mcetoc_1dgv1a4os0" class="title">DHN Co-Founders</h2>
@@ -216,7 +216,7 @@
 <div class="grid-item">
 <figure><img class="founder-photo" src="https://static.digitalhumanitarians.com/media/posts/2/andr.jpg">
 <figcaption><strong>Andrej Verity</strong> <br><a href="mailto:verity@un.org">verity@un.org</a><br>
-<p>Andrej Verity is an information management officer at the United Nations (UN) <a href="https://www.unocha.org/" target="_blank" rel="noopener noreferrer">Office for the Coordination of Humanitarian Affairs</a> (OCHA) in New York and a co-founder of the Digital Humanitarian Network. Between responding to emergencies, he leads OCHA's multi-skilled shared Digital Services team providing strategic end-to-end service development, integrating and promoting standards and taxonomies, and managing platform-as-a-service support to a variety of sites ranging from <a href="https://reliefweb.int/" target="_blank" rel="noopener noreferrer">ReliefWeb</a> to the <a href="https://data.humdata.org/" target="_blank" rel="noopener noreferrer">Humanitarian Data Exchange</a> to the <a href="https://fts.unocha.org/" target="_blank" rel="noopener noreferrer">Financial Tracking Service</a>.  Andrej openly shares his ideas on his personal site -<a href="https://blog.veritythink.com/">https://blog.veritythink.com/</a>. Follow Andrej on Twitter at: <a href="https://twitter.com/PatrickMeier" target="_blank" rel="noopener noreferrer">andrejverity</a></p>
+<p>Andrej Verity is an information management officer at the United Nations (UN) <a href="https://www.unocha.org/" target="_blank" rel="noopener noreferrer">Office for the Coordination of Humanitarian Affairs</a> (OCHA) in New York and a co-founder of the Digital Humanitarian Network. Between responding to emergencies, he leads OCHA's multi-skilled shared Digital Services team providing strategic end-to-end service development, integrating and promoting standards and taxonomies, and managing platform-as-a-service support to a variety of sites ranging from <a href="https://reliefweb.int/" target="_blank" rel="noopener noreferrer">ReliefWeb</a> to the <a href="https://data.humdata.org/" target="_blank" rel="noopener noreferrer">Humanitarian Data Exchange</a> to the <a href="https://fts.unocha.org/" target="_blank" rel="noopener noreferrer">Financial Tracking Service</a>.  Andrej openly shares his ideas on his personal site - <a href="https://blog.veritythink.com/" target="_blank" rel="noopener noreferrer">https://blog.veritythink.com/</a>. Follow Andrej on Twitter at: <a href="https://twitter.com/PatrickMeier" target="_blank" rel="noopener noreferrer">andrejverity</a></p>
 </figcaption>
 </figure>
 </div>
