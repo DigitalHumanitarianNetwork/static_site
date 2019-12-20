@@ -3,12 +3,36 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://www.digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://www.digitalhumanitarians.com" />
-    <updated>2019-11-13T15:44:49-05:00</updated>
+    <updated>2019-12-20T15:05:30-05:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://www.digitalhumanitarians.com</id>
 
+    <entry>
+        <title>Demystifying Quantum Computing for the Humanitarian Sector</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/"/>
+        <id>https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/</id>
+
+        <updated>2019-12-20T15:05:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.digitalhumanitarians.com/media/posts/45/Demystifying_Quantum_Computing_for_the_Humanitarian_Sector_-_Dec2019_pdf.png" alt="Demystifying Quantum Computing for the Humanitarian Sector" />
+                    Written by Stephanie Tran and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.digitalhumanitarians.com/media/posts/45/Demystifying_Quantum_Computing_for_the_Humanitarian_Sector_-_Dec2019_pdf.png" alt="Demystifying Quantum Computing for the Humanitarian Sector" />
+                <p><a href="https://app.box.com/s/h4m5ky8y8op903qrblm1sdjtjacd58dv?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/transteph/" target="_blank" rel="noopener noreferrer">Stephanie Tran</a> and <a href="mailto:verity@un.org">Andrej Verity</a></p>
+<p> </p>
+<a class="pdf-button" href="https://app.box.com/s/h4m5ky8y8op903qrblm1sdjtjacd58dv?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>United Nations Economic and Social Council (ECOSOC) Panel Talks (Archive)</title>
         <author>
@@ -314,28 +338,6 @@
                 <p><a href="https://app.box.com/s/5nhzoosxv98crnrhm08c9e38ztcnbgmk?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/joanna-misiura-363113155/" target="_blank" rel="noopener noreferrer">Joanna Misiura</a> and <a href="mailto:verity@un.org">Andrej Verity</a></p>
 <p> </p>
 <a class="pdf-button" href="https://app.box.com/s/5nhzoosxv98crnrhm08c9e38ztcnbgmk?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0" target="_blank" rel="noopener noreferrer">View PDF File</a>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Activation Diagram (Archive)</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://www.digitalhumanitarians.com/activation-diagram-archive/"/>
-        <id>https://www.digitalhumanitarians.com/activation-diagram-archive/</id>
-
-        <updated>2019-08-27T14:06:46-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png" alt="Basic Activation Process" />
-                    View Full Diagram
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png" alt="Basic Activation Process" />
-                <p><a class="pdf-button" href="https://app.box.com/s/l8qkerpn4rviqrg942t" target="_blank" rel="nofollow noopener noreferrer">View Full Diagram</a></p>
             ]]>
         </content>
     </entry>

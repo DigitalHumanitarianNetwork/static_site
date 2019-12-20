@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
+            "url": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
+            "title": "Demystifying Quantum Computing for the Humanitarian Sector",
+            "summary": "Written by Stephanie Tran and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/h4m5ky8y8op903qrblm1sdjtjacd58dv?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/transteph/\" target=\"_blank\" rel=\"noopener noreferrer\">Stephanie Tran</a> and <a href=\"mailto:verity@un.org\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/h4m5ky8y8op903qrblm1sdjtjacd58dv?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/45/Demystifying_Quantum_Computing_for_the_Humanitarian_Sector_-_Dec2019_pdf.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-20T15:05:10-05:00",
+            "date_modified": "2019-12-20T15:05:10-05:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
             "url": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
             "title": "United Nations Economic and Social Council (ECOSOC) Panel Talks (Archive)",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2019-08-31T10:00:00-04:00",
             "date_modified": "2019-11-13T15:44:42-05:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/activation-diagram-archive/",
-            "url": "https://www.digitalhumanitarians.com/activation-diagram-archive/",
-            "title": "Activation Diagram (Archive)",
-            "summary": "View Full Diagram",
-            "content_html": "<p><a class=\"pdf-button\" href=\"https://app.box.com/s/l8qkerpn4rviqrg942t\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">View Full Diagram</a></p>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/30/Activation-Process-Diagram_v1.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-08-27T13:50:54-04:00",
-            "date_modified": "2019-08-27T14:06:46-04:00"
         }
     ]
 }
