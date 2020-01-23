@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
+            "url": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
+            "title": "Artificial Intelligence Principles for Vulnerable Populations in Humanitarian Contexts",
+            "summary": "Written by Jasmine Wright and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/jasmine-b-wright/\" target=\"_blank\" rel=\"noopener noreferrer\">Jasmine Wright</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/46/Artificial_Intelligence_Principles_for_Vulnerable_Populations_in_Humanitarian_Contexts_-_Jan_2020_pdf.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-23T16:22:30-05:00",
+            "date_modified": "2020-01-23T16:22:30-05:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
             "url": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
             "title": "Demystifying Quantum Computing for the Humanitarian Sector",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2019-09-01T17:32:19-04:00",
             "date_modified": "2019-09-01T17:33:35-04:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/chatbots-in-the-humanitarian-field-concepts-uses-and-shortfalls/",
-            "url": "https://www.digitalhumanitarians.com/chatbots-in-the-humanitarian-field-concepts-uses-and-shortfalls/",
-            "title": "Chatbots in the humanitarian field - concepts, uses &amp; shortfalls",
-            "summary": "Written by Joanna Misiura and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/5nhzoosxv98crnrhm08c9e38ztcnbgmk?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/joanna-misiura-363113155/\" target=\"_blank\" rel=\"noopener noreferrer\">Joanna Misiura</a> and <a href=\"mailto:verity@un.org\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/5nhzoosxv98crnrhm08c9e38ztcnbgmk?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/44/Chatbots-in-the-humanitarian-field-Concepts-Uses-and-Shortfalls-May-2019.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-08-31T10:00:00-04:00",
-            "date_modified": "2019-11-13T15:44:42-05:00"
         }
     ]
 }
