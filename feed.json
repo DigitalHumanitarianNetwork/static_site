@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
+            "url": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
+            "title": "Artifical Intelligence (AI) Applied to Unmanned Aerial Vehicles (UAVs) And its Impact on Humanitarian Action - May 2020",
+            "summary": "Written by Camille Oren and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/camille-oren-444110127/\" target=\"_blank\" rel=\"noopener noreferrer\">Camille Oren</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a href=\"https://app.box.com/s/3kcs73pjai5m06945q42wgh80ld5jbh9\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/47/Artifical_Intelligence_Applied_to_Unmanned_Aerial_Vehicles_And_its_Impact_on_Humanitarian_Action_-_May_2020.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-03T14:12:04-04:00",
+            "date_modified": "2020-06-03T14:16:54-04:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
             "url": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
             "title": "Artificial Intelligence Principles for Vulnerable Populations in Humanitarian Contexts",
@@ -22,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-01-24T10:22:30+13:00",
-            "date_modified": "2020-01-24T10:44:51+13:00"
+            "date_published": "2020-01-23T16:22:30-05:00",
+            "date_modified": "2020-01-23T16:44:51-05:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
@@ -37,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-12-21T09:05:10+13:00",
-            "date_modified": "2019-12-21T09:05:10+13:00"
+            "date_published": "2019-12-20T15:05:10-05:00",
+            "date_modified": "2019-12-20T15:05:10-05:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
@@ -52,8 +67,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:26:21+12:00",
-            "date_modified": "2019-09-02T12:26:21+12:00"
+            "date_published": "2019-09-01T20:26:21-04:00",
+            "date_modified": "2019-09-01T20:26:21-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/dhnetwork-summit-at-iccm-archive/",
@@ -67,8 +82,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:25:32+12:00",
-            "date_modified": "2019-09-02T12:25:32+12:00"
+            "date_published": "2019-09-01T20:25:32-04:00",
+            "date_modified": "2019-09-01T20:25:32-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/super-typhoon-yolanda-philippines-archive/",
@@ -82,8 +97,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:24:18+12:00",
-            "date_modified": "2019-09-02T12:24:23+12:00"
+            "date_published": "2019-09-01T20:24:18-04:00",
+            "date_modified": "2019-09-01T20:24:23-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/world-humanitarian-summit-activation-archive/",
@@ -97,8 +112,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:23:21+12:00",
-            "date_modified": "2019-09-02T12:23:21+12:00"
+            "date_published": "2019-09-01T20:23:21-04:00",
+            "date_modified": "2019-09-01T20:23:21-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/digital-humanitarians-the-book-archive/",
@@ -112,8 +127,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:22:21+12:00",
-            "date_modified": "2019-09-02T12:22:21+12:00"
+            "date_published": "2019-09-01T20:22:21-04:00",
+            "date_modified": "2019-09-01T20:22:21-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/translators-without-borders-ebola-activation-archive/",
@@ -126,8 +141,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T12:20:08+12:00",
-            "date_modified": "2019-09-02T12:20:08+12:00"
+            "date_published": "2019-09-01T20:20:08-04:00",
+            "date_modified": "2019-09-01T20:20:08-04:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/a-guide-to-social-media-emergency-management-analytics-archive/",
@@ -141,23 +156,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-02T09:33:27+12:00",
-            "date_modified": "2019-09-02T09:33:27+12:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/philippines-typhoon-ruby-archive/",
-            "url": "https://www.digitalhumanitarians.com/philippines-typhoon-ruby-archive/",
-            "title": "Philippines Typhoon Ruby (Archive)",
-            "summary": "Witnessing the sheer volume of information emerging from disaster may be a bit like listening&hellip;",
-            "content_html": "<p>Witnessing the sheer volume of information emerging from disaster may be a bit like listening to the cacophony of a symphony rehearsal with all of the noise of so many different instruments.</p>\n<p>But to the members of the Digital Humanitarian Network, this free flow of information before, during and after disaster is the music of saving lives. The members have been working very actively this past week to support the public aid agencies responding to those impacted by Typhoon Ruby in the Philippines. The members of the Digital Humanitarian Network are diverse in their operating structures, mission and focus and in some cases have direct overlap in the roles and support they provide.  But through collaborative work, the sum of their efforts is much greater than its individual parts.</p>\n<p>And this is their story.</p>\n<p>Hagupit, the twenty-second named storm and the eleventh typhoon of the <a href=\"http://en.wikipedia.org/wiki/2014_Pacific_typhoon_season\">annual typhoon season</a>, started as a tropical storm on December 1 and then became a typhoon the next day. It <a href=\"http://en.wikipedia.org/wiki/Rapid_deepening\">explosively intensified</a> into a Category 5 super typhoon on December 4. Subsequently, Hagupit began a weakening trend before making its first landfall in <a href=\"http://en.wikipedia.org/wiki/Eastern_Samar\">Eastern Samar</a> as a Category 3-equivalent typhoon.</p>\n<p>Below is a high level overview of how innovative members of the Digital Humanitarian Network are helping to provide information aid and crisis mapping.</p>\n<p>The Assessment Capacities Project (ACAPS) have further developed the Humanitarian Information Review and Analysis (HIRA) database in collaboration with DHN.  This is being done in order to facilitate the systematic collection and tagging of published information related to humanitarian needs, so that response efforts can be targeted to areas of greatest need, and trends can be monitored over time.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/disaster-tech-lab\">Disaster Tech Lab</a> has deployed to the island of Cebu in the Philippines to provide emergency communications services and internet access for communities affected by the recent typhoons. They are building indoor &amp; outdoor wifi networks, VSAT &amp; 4G backhaul links as well as VoIP services.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/esri-disaster-response-program\">Esri Disaster Response Program</a> has formally activated and is providing the ArcGIS platform for display of mapping products that are the output of collaborative response efforts among many government agencies and volunteers, including Standby Task Force and GISCorps. Esri provides software, data coordination, technical support, and other GIS assistance to organizations. Here is their <a href=\"http://disasterresponse.maps.arcgis.com/apps/PublicInformation/index.html?appid=a2b187e887924f4488d273b5972ea062\">Public Information Map</a> and <a href=\"http://openesridrp.disasterresponse.opendata.arcgis.com/\">Open Data Portal</a> that is free for you to use. If you need help, <a href=\"http://www.esri.com/apps/company/assist/index.cfm?eventID=124\">request assistance here</a>.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/google-crisis-response\">Google Crisis Response</a> is publishing information for affected populations, including public alerts, crisis map, person finder, and a landing page which contains those tools, evacuation centers, emergency numbers, news and other info: <a href=\"http://google.org/crisisresponse/2014-hagupit\">http://google.org/crisisresponse/2014-hagupit</a>.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/humanity-road\">Humanity Road</a> has been amplifying official messaging in social media, publishing situation reports with helpful links and who to follow in social media and using Scanigo to monitor social media. Volunteers monitored and relayed urgent needs to agencies responding. The organization has also published an initial 3W report. The Humanity Road Social Media 3W report is an early report listing the aid agencies mobilizing and supporting a disaster and includes their social media account information. The organization is also working with GISCorp and ESRI Crisis Response on mapping initiatives. Humanity Road hosts the ESRI ARCGIS platform.  Humanity Road is activation lead for the World Humanitarian Summit and during the activation relayed some of the innovation work to the #ReShapeAid dialogues.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/info4disasters\">Info4Disasters</a> is providing emotional support for digital volunteers and monitoring for indications of burnout and compassion fatigue. The group has also been amplifying disaster preparedness guidance via social media and providing vital information and updates via the<a href=\"https://info4disasters.org/typhoon-ruby-resources/\"> Typhoon Ruby Resources</a> page and their Philippines EOC.</p>\n<p><a href=\"http://opencrisis.org/\">Open Crisis</a> has an in country resource connecting in-country to remote resources as well as creating links lists and helping with reports and maps.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/standby-task-force\">The Standby Task Force</a> has been collating &amp; Identifying images for damage assessment as well as geolocating and verifying text reports. The organization is using Micromappers, the AIDR platform and Verily.</p>\n<p>The SBTF collaborated with Rappler and Project Argos during this deployment. Our volunteers have been supporting their Alert Map, and their volunteers have engaged with the SBTF. This collaboration has identified another critical response partner in the work we do. SBTF would like to thank, Zak Yuson, and his team for all their support.  The collaboration with MicroMappers, Qatar Computer Research Institute (QCRI) has contributed to a greater understanding of these tools, and hopefully contributed to fine-tuning of the functionality and capability of the Artificial Intelligence system.  GISCorps joined forces with the SBTF with their mapping skills to complete the geo-location of tweets and images. They deserve great honor for their effort.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/statistics-without-borders\">Statistics Without Borders</a> has offered its expertise in analyzing data associated with the disaster.</p>\n<p><a href=\"http://digitalhumanitarians.com/content/translators-without-borders\">Translators Without Borders</a> has designated a rapid response translation team for Tagalog and Waray Waray and has provided <a href=\"https://docs.google.com/a/translatorswithoutborders.org/document/d/1ojs6mGYxIY0PSTwx4cHx3yC0wuMKgm5KZ-2F88uH7y4/edit?usp=sharin\">a language profile</a> for affected area.</p>\n<p><a href=\"http://digitalhumanitarians.com/sites/default/files/gc_logo_square_0.jpg\">URISA’s GISCorp</a>s URISA’s GISCorps is collaborating with Humanity Road and ESRI on a mapping inventory for Typhoon Hagupit and has also provided 35 volunteers to assist the Standby Task Force with their effort to geolocate tweets arising from Typhoon Hagupit.</p>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/35/MP900431702-2.jpg",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-02T09:32:19+12:00",
-            "date_modified": "2019-09-02T09:33:35+12:00"
+            "date_published": "2019-09-01T17:33:27-04:00",
+            "date_modified": "2019-09-01T17:33:27-04:00"
         }
     ]
 }
