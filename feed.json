@@ -11,9 +11,24 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
+            "url": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
+            "title": "Guidance for the Calculating Humanitarian Data Collection Costs (April 2021)",
+            "summary": "Written by Alex Muller, Andrej Verity and Kenny Meester View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/alex-muller/ target=\" _blank=\"\">Alex Muller</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/48/Guidance_for_the_Calculating_Humanitarian_Data_Collection_Costs_-_April_2021.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-03T16:56:48+02:00",
+            "date_modified": "2021-06-03T17:00:38+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
             "url": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
-            "title": "Artifical Intelligence (AI) Applied to Unmanned Aerial Vehicles (UAVs) And its Impact on Humanitarian Action - May 2020",
+            "title": "Artifical Intelligence (AI) Applied to Unmanned Aerial Vehicles (UAVs) And its Impact on Humanitarian Action (May 2020)",
             "summary": "Written by Camille Oren and Andrej Verity View PDF File",
             "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/camille-oren-444110127/\" target=\"_blank\" rel=\"noopener noreferrer\">Camille Oren</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a href=\"https://app.box.com/s/3kcs73pjai5m06945q42wgh80ld5jbh9\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
             "image": "https://www.digitalhumanitarians.com/media/posts/47/Artifical_Intelligence_Applied_to_Unmanned_Aerial_Vehicles_And_its_Impact_on_Humanitarian_Action_-_May_2020.png",
@@ -22,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-03T14:12:04-04:00",
-            "date_modified": "2020-06-03T14:16:54-04:00"
+            "date_published": "2020-06-03T20:12:04+02:00",
+            "date_modified": "2021-06-03T17:00:09+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
@@ -37,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-01-23T16:22:30-05:00",
-            "date_modified": "2020-01-23T16:44:51-05:00"
+            "date_published": "2020-01-23T22:22:30+01:00",
+            "date_modified": "2020-01-23T22:44:51+01:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
@@ -52,8 +67,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-12-20T15:05:10-05:00",
-            "date_modified": "2019-12-20T15:05:10-05:00"
+            "date_published": "2019-12-20T21:05:10+01:00",
+            "date_modified": "2021-06-03T16:53:37+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
@@ -67,8 +82,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:26:21-04:00",
-            "date_modified": "2019-09-01T20:26:21-04:00"
+            "date_published": "2019-09-02T02:26:21+02:00",
+            "date_modified": "2019-09-02T02:26:21+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/dhnetwork-summit-at-iccm-archive/",
@@ -82,8 +97,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:25:32-04:00",
-            "date_modified": "2019-09-01T20:25:32-04:00"
+            "date_published": "2019-09-02T02:25:32+02:00",
+            "date_modified": "2019-09-02T02:25:32+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/super-typhoon-yolanda-philippines-archive/",
@@ -97,8 +112,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:24:18-04:00",
-            "date_modified": "2019-09-01T20:24:23-04:00"
+            "date_published": "2019-09-02T02:24:18+02:00",
+            "date_modified": "2019-09-02T02:24:23+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/world-humanitarian-summit-activation-archive/",
@@ -112,8 +127,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:23:21-04:00",
-            "date_modified": "2019-09-01T20:23:21-04:00"
+            "date_published": "2019-09-02T02:23:21+02:00",
+            "date_modified": "2019-09-02T02:23:21+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/digital-humanitarians-the-book-archive/",
@@ -127,8 +142,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:22:21-04:00",
-            "date_modified": "2019-09-01T20:22:21-04:00"
+            "date_published": "2019-09-02T02:22:21+02:00",
+            "date_modified": "2019-09-02T02:22:21+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/translators-without-borders-ebola-activation-archive/",
@@ -141,23 +156,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-01T20:20:08-04:00",
-            "date_modified": "2019-09-01T20:20:08-04:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/a-guide-to-social-media-emergency-management-analytics-archive/",
-            "url": "https://www.digitalhumanitarians.com/a-guide-to-social-media-emergency-management-analytics-archive/",
-            "title": "A Guide To Social Media Emergency Management Analytics (Archive)",
-            "summary": "Humanity Road in collaboration with Statistics Without Borders is pleased to announce the publication of&hellip;",
-            "content_html": "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n<div class=\"field-items\">\n<div class=\"field-item even\">\n<p><a href=\"http://humanityroad.org\">Human</a><a href=\"http://humanityroad.org\">ity Road</a> in collaboration with <a href=\"http://community.amstat.org/statisticswithoutborders/home/\" target=\"_blank\" rel=\"noopener noreferrer\">Statistics Without Borders </a>is pleased to announce the publication of a guide to help emergency managers understand social media analytics. This twenty page guide and report contains helpful tips for emergency managers.</p>\n<p>Emergency Management is a mature field of study but Social Media Analytics is still in its infancy and navigating this field requires an understanding of the opportunities it presents.   We are publishing this guide as a helpful tool for emergency managers and decisions makers to help them identify and discuss relevant questions in planning their SMEM response.  One example of key lessons to include in your own SMEM plan is establishing a baseline for communications activity in your area of operation.</p>\n<p>Download Here <a href=\"http://humanityroad.org/wp-content/uploads/2014/11/HRSWB-SMEM-Guide-FINAL-20141106.pdf\">HRSWB SMEM Guide FINAL 20141106</a></p>\n<blockquote>\n<p><strong>Extract:</strong><br><em>“While the idea of leveraging social media is intuitively attractive, there are a number of key considerations to ensure that the analysis is designed to meet the objective. The opportunity for data analysis must be properly and promptly identified, and the disaster response resources and the analytical resources must work together to determine how to best house, extract, and analyze the data.  The parameters and the specifics of the social media data to be extracted for analysis must be carefully defined and understood based on the objectives of the analysis.”</em></p>\n<p>Examining the use of social media across space and time may signal a change or development in the behavior of people and their use of social media. For example, the results of this type of analysis may be useful for the design and prioritization of outreach programs as well as top-down communication from the government towards affected populations.  Using a subset of data collected, analysts can provide a geographic display of tweets over time for a specific location. This might be tweets about urgent needs, damage or some other topic.</p>\n</blockquote>\n<p>Transformation through innovation is possible through discovering, testing and leveraging digital humanitarian and technology partners.  Knowing how to tap these partners is crucial for quickly responding to disaster in your region.  We are really excited to be working with partners such as Statistics Without Borders, Translators Without Borders and technology partners such as ESRI and encourage emergency management professionals to reach out to start talking with potential data management partners.</p>\n</div>\n</div>\n</div>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/36/humanityroad_report_6.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-01T17:33:27-04:00",
-            "date_modified": "2019-09-01T17:33:27-04:00"
+            "date_published": "2019-09-02T02:20:08+02:00",
+            "date_modified": "2019-09-02T02:20:08+02:00"
         }
     ]
 }
