@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
+            "url": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
+            "title": "The Twenty-First Century Humanitarian Information Manager - A Modern Competencies Framework",
+            "summary": "Written by Esmée Tijsterman, Andrej Verity and Kenny Meester View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/nqym2dz1lzna0xsqlgitk1foqrqz22z5\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/esmee-tijsterman/\" target=\" _blank=\">Esmée Tijsterman</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/nqym2dz1lzna0xsqlgitk1foqrqz22z5\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/49/The-21st-Century-Humanitarian-Information-Manager-Cover-May-2021.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-09T12:18:35+02:00",
+            "date_modified": "2021-06-09T12:18:55+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
             "url": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
             "title": "Guidance for the Calculating Humanitarian Data Collection Costs (April 2021)",
             "summary": "Written by Alex Muller, Andrej Verity and Kenny Meester View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/alex-muller/ target=\" _blank=\"\">Alex Muller</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "content_html": "<p><a href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/alex-muller/\" target=\" _blank=\">Alex Muller</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
             "image": "https://www.digitalhumanitarians.com/media/posts/48/Guidance_for_the_Calculating_Humanitarian_Data_Collection_Costs_-_April_2021.png",
             "author": {
                 "name": "DH Network"
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2021-06-03T16:56:48+02:00",
-            "date_modified": "2021-06-03T17:00:38+02:00"
+            "date_modified": "2021-06-09T12:19:19+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
@@ -53,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2020-01-23T22:22:30+01:00",
-            "date_modified": "2020-01-23T22:44:51+01:00"
+            "date_modified": "2021-06-09T12:14:52+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/demystifying-quantum-computing-for-the-humanitarian-sector/",
@@ -144,20 +159,6 @@
             ],
             "date_published": "2019-09-02T02:22:21+02:00",
             "date_modified": "2019-09-02T02:22:21+02:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/translators-without-borders-ebola-activation-archive/",
-            "url": "https://www.digitalhumanitarians.com/translators-without-borders-ebola-activation-archive/",
-            "title": "Translators without Borders Ebola Activation (Archive)",
-            "summary": "Translators without Borders (TWB) is pleased to announce funding from the Indigo Trust to extend&hellip;",
-            "content_html": "Translators without Borders (TWB) is pleased to announce funding from the Indigo Trust to extend its Ebola Words of Relief Extension project to more languages in West Africa. Additionally, the project will focus on distribution of the local language materials through various humanitarian networks and on the ground, ensuring that affected populations do receive critical information in their own languages. The funding by the Indigo Trust is intended to improve communications between aid workers and local populations in West Africa suffering from the Ebola epidemic. The funding, which enhances the Words of Relief Ebola Extension project initially funded by the Humanitarian Innovation Fund (HIF), recognizes the critical role language and translation play in improving crisis response and saving lives. Called “the modern era’s worst health emergency,” by the World Health Organization, the Ebola epidemic is a crisis of information, a crisis of communications and, ultimately, a crisis of language. In September, UNICEF found that in Sierra Leone, thirty percent believed Ebola was transmitted via mosquitos and another thirty percent believed it was an airborne disease. The project supports efforts to reduce the information gap by providing simple messages, posters, public service announcements and voice over in six languages: Krio, Themne, Mende, Fula, Malinke, and Pidgin English (audio only) for the most affected populations in Sierra Leone, Guinea and Liberia. The team hopes to extend the project to other key local languages as well, such as Bambara in Mali. Importantly, the Indigo Trust funds allow the Translators without Borders team to focus on distribution and dissemination of local language content. “We train community translators and work with professional translators volunteering their time, all working very hard to improve access to information in local languages,” said Rebecca Petras, Translators without Borders Program Director. “It is critical that we make sure that the translations are presented well, printed, and distributed. With this project, we are now able to make sure that the materials are actually used.” Translations, which have already begun, are completed by rapid response translation teams made up of either professional translators or community translators trained by Translators without Borders. Current content is provided by International SOS, WHO/UNICEF and the Centers for Disease Control (CDC), but the project intends to expand the source messaging to more organizations as well as national government messaging. Words of Relief is currently being piloted in Kenya with Swahili and Somali. The pilot, funded by the HIF and Microsoft, creates a database of local language crisis content that can be extended throughout the world. It also includes development of rapid response ‘spider networks’ into local languages and development of an online tool to link aid workers directly to rapid response translation teams.",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-02T02:20:08+02:00",
-            "date_modified": "2019-09-02T02:20:08+02:00"
         }
     ]
 }
