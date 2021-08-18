@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/protecting-workers-from-cyberbullying-within-digital-humanitarian-response-may-2021/",
+            "url": "https://www.digitalhumanitarians.com/protecting-workers-from-cyberbullying-within-digital-humanitarian-response-may-2021/",
+            "title": "Protecting Workers from Cyberbullying within Digital Humanitarian Response (May 2021)",
+            "summary": "Written by Batool Barody and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/batoolbarody/\" target=\" _blank=\">Batool Barody</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/50/Protecting_Workers_from_Cyberbullying_within_Digital_Humanitarian_Response_-_May_2021.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-18T12:00:17+02:00",
+            "date_modified": "2021-08-18T12:00:33+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
             "url": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
             "title": "The Twenty-First Century Humanitarian Information Manager - A Modern Competencies Framework",
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2021-06-09T12:18:35+02:00",
-            "date_modified": "2021-06-09T12:18:55+02:00"
+            "date_modified": "2021-08-18T12:00:38+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
@@ -53,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2020-06-03T20:12:04+02:00",
-            "date_modified": "2021-06-03T17:00:09+02:00"
+            "date_modified": "2021-08-18T11:56:49+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2019-09-02T02:23:21+02:00",
             "date_modified": "2019-09-02T02:23:21+02:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/digital-humanitarians-the-book-archive/",
-            "url": "https://www.digitalhumanitarians.com/digital-humanitarians-the-book-archive/",
-            "title": "Digital Humanitarians: The Book (Archive)",
-            "summary": "The overflow of information generated during disasters can be as paralyzing to humanitarian response as&hellip;",
-            "content_html": "<div>The overflow of information generated during disasters can be as paralyzing to humanitarian response as the lack of information. Mobile phones, orbiting satellites and humanitarian UAVs each generate vast volumes of data during major disasters. This flash flood of information is often referred to as Big Data, or Big Crisis Data. Making sense of this overflow of information is proving to be an impossible challenge for traditional humanitarian organizations, which is precisely why they’re turning to Digital Humanitarians.  </div>\n<div> </div>\n<div>Who exactly are these Digital Humanitarians? They’re you, me, all of us. Digital Humanitarians are volunteers and professionals from the world over and from all walks of life. What do they share in common? The desire to make a difference, and <i>they do</i> by rapidly mobilizing online in collaboration with international humanitarian organizations. In virtually real-time, they make sense of vast volumes of social media, SMS and imagery captured from satellites and UAVs to support relief efforts worldwide. How? They craft and leverage ingenious crowdsourcing solutions with trail-blazing insights from artificial intelligence.  </div>\n<div> </div>\n<div>This book charts the sudden and spectacular rise of Digital Humanitarians by sharing their remarkable, real-life stories, highlighting how their humanity coupled with innovative solutions to Big Data is changing humanitarian response forever. Digital Humanitarians will make you think differently about what it means to be humanitarian and will invite you to join the journey online.</div>\n<div> </div>\n<div>Book website: <a href=\"http://digital-humanitarians.com/\" target=\"_blank\" rel=\"noopener noreferrer\">digital-humanitarians.com</a></div>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/38/DH-Book-Tall.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-02T02:22:21+02:00",
-            "date_modified": "2019-09-02T02:22:21+02:00"
         }
     ]
 }
