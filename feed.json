@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/about-doughnut-economics-technology-and-humanitarian-crises-october-2021/",
+            "url": "https://www.digitalhumanitarians.com/about-doughnut-economics-technology-and-humanitarian-crises-october-2021/",
+            "title": "About Doughnut Economics, Technology and Humanitarian Crises - October 2021",
+            "summary": "Written by Sarah A Jabbar and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/\" target=\" _blank=\">Sarah A Jabbar</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/u9kft54q8pz63yfijjx2860joskwkd9c\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/54/About-Doughnut-Economics-Technology-and-Humanitarian-Crises-October-2021.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-15T10:51:53+01:00",
+            "date_modified": "2021-12-15T10:55:19+01:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/no-code-for-emergency-response-and-coordination-august-2021/",
             "url": "https://www.digitalhumanitarians.com/no-code-for-emergency-response-and-coordination-august-2021/",
             "title": "No-Code for Emergency Response &amp; Coordination (August 2021)",
@@ -68,7 +83,7 @@
             "tags": [
             ],
             "date_published": "2021-08-18T12:00:17+02:00",
-            "date_modified": "2021-08-18T12:00:33+02:00"
+            "date_modified": "2021-12-15T10:51:50+01:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2019-12-20T21:05:10+01:00",
             "date_modified": "2021-06-03T16:53:37+02:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
-            "url": "https://www.digitalhumanitarians.com/united-nations-economic-and-social-council-ecosoc-panel-talks-archive/",
-            "title": "United Nations Economic and Social Council (ECOSOC) Panel Talks (Archive)",
-            "summary": "“Humanitarianism in the Network Age” (HINA) examines the implications for how a world of increasingly&hellip;",
-            "content_html": "<div class=\"postbody\">\n<div class=\"xg_user_generated\">\n<p><span class=\"font-size-2\">“<a href=\"https://docs.unocha.org/sites/dms/Documents/WEB%20Humanitarianism%20in%20the%20Network%20Age%20vF%20single.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Humanitarianism in the Network Age</a>” (HINA) examines the implications for how a world of increasingly informed, connected and self-reliant communities will affect the delivery of humanitarian aid. It lays out some of the most pertinent features of these new technologies, such as SMS, social media and others, and identifies the opportunities and difficulties in applying them.” says United Nations Office for the Coordination of Humanitarian Affairs (<a href=\"http://www.unocha.org/hina\">UNOCHA</a>).</span></p>\n<p><span class=\"font-size-2\">July 16 kicks off with a panel talk  </span></p>\n<p><span class=\"font-size-2\">To make this fundamental shift possible, the report argues that:</span><br><span class=\"font-size-2\">• Information needs to be seen as a basic need in humanitarian response;</span><br><span class=\"font-size-2\">• The ways in which humanitarian information is collected, shared, and analysed need to</span><br><span class=\"font-size-2\">change fundamentally;</span><br><span class=\"font-size-2\">• There is a need to create new capacities and ways of thinking in aid organizations and</span><br><span class=\"font-size-2\">Governments to understand and use new information sources; and</span><br><span class=\"font-size-2\">• New technologies also bring new risks and humanitarians will need to develop guidelines</span> <span class=\"font-size-2\">to ensure that information is used in an ethical and secure manner.</span></p>\n<p><span class=\"font-size-2\">Ms. Gwi-Yeop Son, Director of OCHA’s Corporate Programmes Division, will introduce the report</span> <span class=\"font-size-2\">and its key findings. The event will also serve as the opening of the Humanitarian Fair, which will</span> <span class=\"font-size-2\">run all day Tuesday and Wednesday and will feature booths from NGOs, private sector </span><span class=\"font-size-2\">companies and UN agencies highlighting innovative new tools and approaches to improving </span><span class=\"font-size-2\">humanitarian assistance. Several of the groups that will be running booths that have developed</span> <span class=\"font-size-2\">innovative solutions to Network Age challenges wil</span></p>\n<p><span class=\"font-size-2\">Members from the Digital Humanitarian Network at the panel talks and trade fair booths include</span></p>\n<p><span class=\"font-size-2\">     Standby Volunteer Task Force (Panelist - Justine McKinnon)</span><br><span class=\"font-size-2\">     MapAction</span><br><span class=\"font-size-2\">     Translators without Borders</span><br><span class=\"font-size-2\">     Humanity Road</span><br><span class=\"font-size-2\">     DHN will also have a booth</span></p>\n<p> </p>\n</div>\n</div>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/42/images.jpg",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-02T02:26:21+02:00",
-            "date_modified": "2019-09-02T02:26:21+02:00"
         }
     ]
 }
