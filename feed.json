@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
+            "url": "https://www.digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
+            "title": "Mis and Disinformation - Handling the 21st Century Challenge in the Humanitarian Sector - February 2022",
+            "summary": "Written by Kristen Pearn and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/xjj5ldidypzuam27l3t7sxv9a8bakqm3\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/xjj5ldidypzuam27l3t7sxv9a8bakqm3\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/56/Mis-and-Disinformation-Handling-the-21st-Century-Challenge-in-the-Humanitarian-Sector-February-2022.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-11T18:49:57+01:00",
+            "date_modified": "2022-03-11T18:53:33+01:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/leading_and_managing_remote_teams_october2021/",
             "url": "https://www.digitalhumanitarians.com/leading_and_managing_remote_teams_october2021/",
             "title": "Leading and Managing Remote Teams - Including Specifics for Disaster Response Teams - October 2021",
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2021-12-15T10:51:53+01:00",
-            "date_modified": "2021-12-15T10:55:19+01:00"
+            "date_modified": "2022-03-11T18:50:10+01:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/no-code-for-emergency-response-and-coordination-august-2021/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2020-06-03T20:12:04+02:00",
             "date_modified": "2021-08-18T11:56:49+02:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
-            "url": "https://www.digitalhumanitarians.com/artificial-intelligence-principles-for-vulnerable-populations-in-humanitarian-contexts/",
-            "title": "Artificial Intelligence Principles for Vulnerable Populations in Humanitarian Contexts",
-            "summary": "Written by Jasmine Wright and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/jasmine-b-wright/\" target=\"_blank\" rel=\"noopener noreferrer\">Jasmine Wright</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/46/Artificial_Intelligence_Principles_for_Vulnerable_Populations_in_Humanitarian_Contexts_-_Jan_2020_pdf.jpg",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-23T22:22:30+01:00",
-            "date_modified": "2021-06-09T12:14:52+02:00"
         }
     ]
 }
