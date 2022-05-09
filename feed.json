@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
+            "url": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
+            "title": "Mitigating physical risk posed by technology - To responders in volatile situations - March 2022",
+            "summary": "Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a>, <a href=\"https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/\" target=\" _blank=\">Sarah A Jabbar</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/57/Mitigating-physical-risk-posed-by-technology-To-responders-in-volatile-situations.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T18:59:51+02:00",
+            "date_modified": "2022-05-09T19:03:14+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
             "url": "https://www.digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
             "title": "Mis &amp; Disinformation - Handling the 21st Century Challenge in the Humanitarian Sector - February 2022",
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2022-01-20T10:58:59+01:00",
-            "date_modified": "2022-01-20T11:32:41+01:00"
+            "date_modified": "2022-05-09T18:59:31+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/about-doughnut-economics-technology-and-humanitarian-crises-october-2021/",
@@ -68,7 +83,7 @@
             "tags": [
             ],
             "date_published": "2021-11-17T11:41:37+01:00",
-            "date_modified": "2021-11-17T11:51:22+01:00"
+            "date_modified": "2022-05-09T18:59:38+02:00"
         },
         {
             "id": "https://www.digitalhumanitarians.com/10-things-we-should-know-about-each-other-academics-and-humanitarians/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-06-03T16:56:48+02:00",
             "date_modified": "2021-08-19T09:39:15+02:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
-            "url": "https://www.digitalhumanitarians.com/artifical_intelligence_applied_to_uavs/",
-            "title": "Artifical Intelligence (AI) Applied to Unmanned Aerial Vehicles (UAVs) And its Impact on Humanitarian Action (May 2020)",
-            "summary": "Written by Camille Oren and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/df04s4tznhkjbak88jqurlwn5dyywlp3?,&amp;source=aw&amp;utm_medium=affiliate&amp;utm_source=AWIN&amp;utm_theme=AlwaysOnDigital&amp;id=7010e000001LP9U&amp;utm_campaign=85386&amp;utm_content=0\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/camille-oren-444110127/\" target=\"_blank\" rel=\"noopener noreferrer\">Camille Oren</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a href=\"https://app.box.com/s/3kcs73pjai5m06945q42wgh80ld5jbh9\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/47/Artifical_Intelligence_Applied_to_Unmanned_Aerial_Vehicles_And_its_Impact_on_Humanitarian_Action_-_May_2020.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-03T20:12:04+02:00",
-            "date_modified": "2021-08-18T11:56:49+02:00"
         }
     ]
 }
