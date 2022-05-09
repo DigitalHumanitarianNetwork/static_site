@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
+            "url": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
+            "title": "Mitigating physical risk posed by (education) technology - To children in displacement situations - March 2022",
+            "summary": "Written by Dijie (Sariel) Lei and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/sariel-lei/\" target=\" _blank=\">Dijie (Sariel) Lei</a>  and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/58/Mitigating-physical-risk-posed-by-education-technology-To-children-in-displacement-situations-March-2022.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T19:05:02+02:00",
+            "date_modified": "2022-05-09T19:07:53+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
             "url": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
             "title": "Mitigating physical risk posed by technology - To responders in volatile situations - March 2022",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-06-09T12:18:35+02:00",
             "date_modified": "2021-11-17T11:41:30+01:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
-            "url": "https://www.digitalhumanitarians.com/guidance-for-the-calculating-humanitarian-data-collection-costs/",
-            "title": "Guidance for the Calculating Humanitarian Data Collection Costs (April 2021)",
-            "summary": "Written by Alex Muller, Andrej Verity and Kenny Meester View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/alex-muller/\" target=\" _blank=\">Alex Muller</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/op89ta6dz59vckwthrqwy0n2q9txqyfj\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/48/Guidance_for_the_Calculating_Humanitarian_Data_Collection_Costs_-_April_2021.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-06-03T16:56:48+02:00",
-            "date_modified": "2021-08-19T09:39:15+02:00"
         }
     ]
 }
