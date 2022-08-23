@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.digitalhumanitarians.com/a_decade_later_reflecting_on_disaster_relief_2_june_2022/",
+            "url": "https://www.digitalhumanitarians.com/a_decade_later_reflecting_on_disaster_relief_2_june_2022/",
+            "title": "A Decade Later - Reflecting on Disaster Relief 2.0 - June 2022",
+            "summary": "Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/tsskepkv7m1b7pfle0io6q3fyx2t43yd\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a>, <a href=\"https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/\" target=\" _blank=\">Sarah A Jabbar</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/tsskepkv7m1b7pfle0io6q3fyx2t43yd\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
+            "image": "https://www.digitalhumanitarians.com/media/posts/60/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-23T10:27:36+02:00",
+            "date_modified": "2022-08-23T10:30:44+02:00"
+        },
+        {
             "id": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
             "url": "https://www.digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
             "title": "Mitigating physical risk posed by (education) technology - To children in displacement situations - March 2022",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-08-18T12:00:17+02:00",
             "date_modified": "2021-12-15T10:51:50+01:00"
-        },
-        {
-            "id": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
-            "url": "https://www.digitalhumanitarians.com/the-twenty-first-century-humanitarian-information-manager-a-modern-competencies-framework/",
-            "title": "The Twenty-First Century Humanitarian Information Manager - A Modern Competencies Framework",
-            "summary": "Written by Esmée Tijsterman, Andrej Verity and Kenny Meester View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/nqym2dz1lzna0xsqlgitk1foqrqz22z5\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/esmee-tijsterman/\" target=\" _blank=\">Esmée Tijsterman</a>, <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a> and <a href=\"https://www.linkedin.com/in/kmeesters/\" target=\"_blank\" rel=\"noopener noreferrer\">Kenny Meester</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/nqym2dz1lzna0xsqlgitk1foqrqz22z5\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://www.digitalhumanitarians.com/media/posts/49/The-21st-Century-Humanitarian-Information-Manager-Cover-May-2021.jpg",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-06-09T12:18:35+02:00",
-            "date_modified": "2021-11-17T11:41:30+01:00"
         }
     ]
 }
