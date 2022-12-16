@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://digitalhumanitarians.com/identifying_places-improving_data_connectivity_through_unique_identifiers/",
+            "url": "https://digitalhumanitarians.com/identifying_places-improving_data_connectivity_through_unique_identifiers/",
+            "title": "Identifying places - Improving data connectivity through unique identifiers - October 2022",
+            "summary": "Written by Elaine Donderer, Tom Haythornthwaite and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/tsskepkv7m1b7pfle0io6q3fyx2t43yd\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/elaine-donderer-88b6b6183/\" target=\"_blank\" rel=\"noopener noreferrer\">Elaine Donderer</a>, <a href=\"https://www.linkedin.com/in/tom-haythornthwaite-9b3926120/\" target=\"_blank\" rel=\"noopener noreferrer\">Tom Haythornthwaite</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/7dqo7f5xwufqqrew978ra467fufoxbx6\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
+            "image": "https://digitalhumanitarians.com/media/posts/64/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2022-12-16T12:12:26+01:00",
+            "date_modified": "2022-12-16T12:12:26+01:00"
+        },
+        {
             "id": "https://digitalhumanitarians.com/where_technology_meets_ethics_the_humanitarian_principles_and_their_problematic_relationship_to_technology_september_2022/",
             "url": "https://digitalhumanitarians.com/where_technology_meets_ethics_the_humanitarian_principles_and_their_problematic_relationship_to_technology_september_2022/",
             "title": "Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology - September 2022",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2021-12-15T10:51:53+01:00",
             "date_modified": "2022-03-11T18:50:10+01:00"
-        },
-        {
-            "id": "https://digitalhumanitarians.com/no-code-for-emergency-response-and-coordination-august-2021/",
-            "url": "https://digitalhumanitarians.com/no-code-for-emergency-response-and-coordination-august-2021/",
-            "title": "No-Code for Emergency Response &amp; Coordination (August 2021)",
-            "summary": "Written by Husnah Mad-hy and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/husnahmadhy/\" target=\" _blank=\">Husnah Mad-hy</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/ndlef7suztp98bar2xo2bqynno1313wb\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://digitalhumanitarians.com/media/posts/53/No-Code_for_Emergency_Response___Coordination_-_August_2021.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-                   "Publications"
-            ],
-            "date_published": "2021-11-17T11:41:37+01:00",
-            "date_modified": "2022-05-09T18:59:38+02:00"
         }
     ]
 }
