@@ -3,12 +3,37 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://digitalhumanitarians.com" />
-    <updated>2022-12-16T12:12:26+01:00</updated>
+    <updated>2023-01-03T16:55:53+01:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://digitalhumanitarians.com</id>
 
+    <entry>
+        <title>How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises - October 2022</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://digitalhumanitarians.com/how_earth_observation_can_enable_anticipatory_action_in_humanitarian_crises_october_2022/"/>
+        <id>https://digitalhumanitarians.com/how_earth_observation_can_enable_anticipatory_action_in_humanitarian_crises_october_2022/</id>
+            <category term="Publications"/>
+
+        <updated>2023-01-03T16:55:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://digitalhumanitarians.com/media/posts/65/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" alt="How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" />
+                    Written by Sarah Whelan and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://digitalhumanitarians.com/media/posts/65/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" alt="How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" />
+                <p><a href="https://app.box.com/s/vcentv0dx2nedniiqgh7k3sgrhqfbg2z" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/sarwhelan/" target="_blank" rel="noopener noreferrer">Sarah Whelan</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
+<p> </p>
+<p><a class="pdf-button" href="https://app.box.com/s/vcentv0dx2nedniiqgh7k3sgrhqfbg2z" target="_blank" rel="noopener noreferrer">View PDF File</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Identifying places - Improving data connectivity through unique identifiers - October 2022</title>
         <author>
@@ -68,7 +93,7 @@
         <id>https://digitalhumanitarians.com/the_humanitarian_sector_and_digital_identity_are_we_affecting_refugees_self-identities_september_2022/</id>
             <category term="Publications"/>
 
-        <updated>2022-10-28T15:41:36+02:00</updated>
+        <updated>2023-01-03T16:55:19+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/62/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" alt="The Humanitarian Sector &amp; Digital Identity: Are We Affecting Refugee’s Self-Identities?" />
@@ -231,31 +256,6 @@
                 <p><a href="https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/sariel-lei/" target=" _blank=">Dijie (Sariel) Lei</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
 <p> </p>
 <a class="pdf-button" href="https://app.box.com/s/4dzbc8obn9s8hw3xxfekw0tpqi4u8izb" target="_blank" rel="noopener noreferrer">View PDF File</a>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Doughnut Economics, Technology and Humanitarian Crises - October 2021</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://digitalhumanitarians.com/about-doughnut-economics-technology-and-humanitarian-crises-october-2021/"/>
-        <id>https://digitalhumanitarians.com/about-doughnut-economics-technology-and-humanitarian-crises-october-2021/</id>
-            <category term="Publications"/>
-
-        <updated>2022-03-11T18:50:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://digitalhumanitarians.com/media/posts/54/About-Doughnut-Economics-Technology-and-Humanitarian-Crises-October-2021.png" alt="No-Code for Emergency Response &amp; Coordination - August 2021" />
-                    Written by Sarah A Jabbar and Andrej Verity View PDF File
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://digitalhumanitarians.com/media/posts/54/About-Doughnut-Economics-Technology-and-Humanitarian-Crises-October-2021.png" alt="No-Code for Emergency Response &amp; Coordination - August 2021" />
-                <p><a href="https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/" target=" _blank=">Sarah A Jabbar</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
-<p> </p>
-<a class="pdf-button" href="https://app.box.com/s/u9kft54q8pz63yfijjx2860joskwkd9c" target="_blank" rel="noopener noreferrer">View PDF File</a>
             ]]>
         </content>
     </entry>
