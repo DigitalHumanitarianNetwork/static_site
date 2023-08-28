@@ -3,12 +3,37 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://digitalhumanitarians.com" />
-    <updated>2023-01-03T16:55:53+01:00</updated>
+    <updated>2023-08-28T11:12:37+02:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://digitalhumanitarians.com</id>
 
+    <entry>
+        <title>Data and Security Responsibilities of the Individual Humanitarian - June 2023</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://digitalhumanitarians.com/data_and_security_responsibilities_of_the_individual_humanitarian-_june_2023/"/>
+        <id>https://digitalhumanitarians.com/data_and_security_responsibilities_of_the_individual_humanitarian-_june_2023/</id>
+            <category term="Publications"/>
+
+        <updated>2023-08-28T11:12:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://digitalhumanitarians.com/media/posts/66/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023.png" alt="How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" />
+                    Written by Lidewij Heerkens and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://digitalhumanitarians.com/media/posts/66/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023.png" alt="How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" />
+                <p><a href="https://app.box.com/s/g5r9mmbjiklazaio3c8kbf2toeb6jrvq" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/lidewij-heerkens-02319a169/" target="_blank" rel="noopener noreferrer">Lidewij Heerkens</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
+<p> </p>
+<p><a class="pdf-button" href="https://app.box.com/s/g5r9mmbjiklazaio3c8kbf2toeb6jrvq" target="_blank" rel="noopener noreferrer">View PDF File</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises - October 2022</title>
         <author>
@@ -68,7 +93,7 @@
         <id>https://digitalhumanitarians.com/where_technology_meets_ethics_the_humanitarian_principles_and_their_problematic_relationship_to_technology_september_2022/</id>
             <category term="Publications"/>
 
-        <updated>2022-10-28T15:41:48+02:00</updated>
+        <updated>2023-08-28T11:12:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/63/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" alt="Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology" />
@@ -231,31 +256,6 @@
                 <p><a href="https://app.box.com/s/xnklvjo2ahvr5werte055hjbr1vjxl58" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/kristen-pearn/" target=" _blank=">Kristen Pearn</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
 <p> </p>
 <a class="pdf-button" href="https://app.box.com/s/xnklvjo2ahvr5werte055hjbr1vjxl58" target="_blank" rel="noopener noreferrer">View PDF File</a>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Leading and Managing Remote Teams - Including Specifics for Disaster Response Teams - October 2021</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://digitalhumanitarians.com/leading_and_managing_remote_teams_october2021/"/>
-        <id>https://digitalhumanitarians.com/leading_and_managing_remote_teams_october2021/</id>
-            <category term="Publications"/>
-
-        <updated>2022-05-09T18:59:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://digitalhumanitarians.com/media/posts/55/Leading_and_Managing_Remote_Teams_-_Including_Specifics_for_Disaster_Response_Teams_-_October_2021.png" alt="Leading and Managing Remote Teams - Including Specifics for Disaster Response Teams - October 2021" />
-                    Written by Dijie (Sariel) Lei and Andrej Verity View PDF File
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://digitalhumanitarians.com/media/posts/55/Leading_and_Managing_Remote_Teams_-_Including_Specifics_for_Disaster_Response_Teams_-_October_2021.png" alt="Leading and Managing Remote Teams - Including Specifics for Disaster Response Teams - October 2021" />
-                <p><a href="https://app.box.com/s/ist0tjcoi2h1833okxpof4yqzq3x7gdp" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/sariel-lei/" target=" _blank=">Dijie (Sariel) Lei</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
-<p> </p>
-<a class="pdf-button" href="https://app.box.com/s/4dzbc8obn9s8hw3xxfekw0tpqi4u8izb" target="_blank" rel="noopener noreferrer">View PDF File</a>
             ]]>
         </content>
     </entry>
