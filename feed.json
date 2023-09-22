@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://digitalhumanitarians.com/generative_ai_for_humanitarians-september_2023/",
+            "url": "https://digitalhumanitarians.com/generative_ai_for_humanitarians-september_2023/",
+            "title": "Generative AI for Humanitarians - September 2023",
+            "summary": "Written by Nasim Motalebi and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/ybwizbcdxknn2cw8td08hcnl5hc1cl2e\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/nasim-motalebi/\" target=\"_blank\" rel=\"noopener noreferrer\">Nasim Motalebi</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/ybwizbcdxknn2cw8td08hcnl5hc1cl2e\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
+            "image": "https://digitalhumanitarians.com/media/posts/67/Generative-AI-for-Humanitarians-cover-September-2023.png",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2023-09-22T16:54:45+02:00",
+            "date_modified": "2023-09-22T16:57:47+02:00"
+        },
+        {
             "id": "https://digitalhumanitarians.com/data_and_security_responsibilities_of_the_individual_humanitarian-_june_2023/",
             "url": "https://digitalhumanitarians.com/data_and_security_responsibilities_of_the_individual_humanitarian-_june_2023/",
             "title": "Data and Security Responsibilities of the Individual Humanitarian - June 2023",
@@ -24,7 +40,7 @@
                    "Publications"
             ],
             "date_published": "2023-08-28T11:12:27+02:00",
-            "date_modified": "2023-08-28T14:06:11+02:00"
+            "date_modified": "2023-09-22T16:58:00+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/how_earth_observation_can_enable_anticipatory_action_in_humanitarian_crises_october_2022/",
@@ -56,7 +72,7 @@
                    "Publications"
             ],
             "date_published": "2022-12-16T12:12:26+01:00",
-            "date_modified": "2022-12-16T12:12:26+01:00"
+            "date_modified": "2023-09-22T16:54:53+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/where_technology_meets_ethics_the_humanitarian_principles_and_their_problematic_relationship_to_technology_september_2022/",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2022-05-09T18:59:51+02:00",
             "date_modified": "2022-10-07T16:01:27+02:00"
-        },
-        {
-            "id": "https://digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
-            "url": "https://digitalhumanitarians.com/mis_and_disinformation-handling_the_21st_century_challenge_in_the_humanitarian_sector/",
-            "title": "Mis &amp; Disinformation - Handling the 21st Century Challenge in the Humanitarian Sector - February 2022",
-            "summary": "Written by Kristen Pearn and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/xnklvjo2ahvr5werte055hjbr1vjxl58\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<a class=\"pdf-button\" href=\"https://app.box.com/s/xnklvjo2ahvr5werte055hjbr1vjxl58\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a>",
-            "image": "https://digitalhumanitarians.com/media/posts/56/Mis-and-Disinformation-Handling-the-21st-Century-Challenge-in-the-Humanitarian-Sector-February-2022.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-                   "Publications"
-            ],
-            "date_published": "2022-03-11T18:49:57+01:00",
-            "date_modified": "2022-08-23T10:32:39+02:00"
         }
     ]
 }
