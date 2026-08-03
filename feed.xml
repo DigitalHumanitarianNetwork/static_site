@@ -3,12 +3,37 @@
     <title>Digital Humanitarian Network</title>
     <link href="https://digitalhumanitarians.com/feed.xml" rel="self" />
     <link href="https://digitalhumanitarians.com" />
-    <updated>2023-09-22T16:58:00+02:00</updated>
+    <updated>2026-08-03T17:34:02+02:00</updated>
     <author>
         <name>DH Network</name>
     </author>
     <id>https://digitalhumanitarians.com</id>
 
+    <entry>
+        <title>The Only Human in the Room - July 2026</title>
+        <author>
+            <name>DH Network</name>
+        </author>
+        <link href="https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/"/>
+        <id>https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/</id>
+        <media:content url="https://digitalhumanitarians.com/media/posts/71/Only-Human-in-the-Room-front-cover.jpg" medium="image" />
+
+        <updated>2026-08-03T17:31:39+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://digitalhumanitarians.com/media/posts/71/Only-Human-in-the-Room-front-cover.jpg" alt="The Only Human in the Room: What AI agents mean for any organization whose product is information" />
+                    Written by Mohammed Juzer Batliwala and Andrej Verity View PDF File
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://digitalhumanitarians.com/media/posts/71/Only-Human-in-the-Room-front-cover.jpg" class="type:primaryImage" alt="The Only Human in the Room: What AI agents mean for any organization whose product is information" /></p>
+                <p><a href="https://app.box.com/s/ybwizbcdxknn2cw8td08hcnl5hc1cl2e" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/mjuzer/" target="_blank" rel="noopener">Mohammed Juzer Batliwala</a>  and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
+<p> </p>
+<p><a class="pdf-button" href="https://app.box.com/s/h58zg1wiqcyeaeee9nyljt21dv1hxovt" target="_blank" rel="noopener noreferrer">View PDF File</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Generative AI for Humanitarians - September 2023</title>
         <author>
@@ -19,7 +44,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/67/Generative-AI-for-Humanitarians-cover-September-2023.png" medium="image" />
 
         <updated>2023-09-22T16:54:45+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/67/Generative-AI-for-Humanitarians-cover-September-2023.png" alt="Generative AI for Humanitarians" />
                     Written by Nasim Motalebi and Andrej Verity View PDF File
@@ -44,7 +69,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/66/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023.png" medium="image" />
 
         <updated>2023-08-28T11:12:27+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/66/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023.png" alt="Data and Security Responsibilities of the Individual Humanitarian - June 2023" />
                     Written by Lidewij Heerkens and Andrej Verity View PDF File
@@ -69,7 +94,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/65/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" medium="image" />
 
         <updated>2023-01-03T16:55:53+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/65/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" alt="How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" />
                     Written by Sarah Whelan and Andrej Verity View PDF File
@@ -94,7 +119,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/64/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" medium="image" />
 
         <updated>2022-12-16T12:12:26+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/64/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" alt="Identifying places - Improving data connectivity through unique identifiers" />
                     Written by Elaine Donderer, Tom Haythornthwaite and Andrej Verity View PDF File
@@ -119,7 +144,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/63/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" medium="image" />
 
         <updated>2022-10-28T15:23:11+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/63/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" alt="Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology" />
                     Written by Oscar Tequeda and Andrej Verity View PDF File
@@ -144,7 +169,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/62/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" medium="image" />
 
         <updated>2022-10-11T09:32:49+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/62/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" alt="The Humanitarian Sector &amp; Digital Identity: Are We Affecting Refugee’s Self-Identities?" />
                     Written by Zoey Zhang and Andrej Verity View PDF File
@@ -169,7 +194,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/61/Humanitarian-Blockchain-Inventory-and-Recommendations-August-2022.png" medium="image" />
 
         <updated>2022-10-07T16:01:21+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/61/Humanitarian-Blockchain-Inventory-and-Recommendations-August-2022.png" alt="Humanitarian Blockchain - Inventory and Recommendations - August 2022" />
                     Written by Zoey Zhang and Andrej Verity View PDF File
@@ -194,7 +219,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/60/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG" medium="image" />
 
         <updated>2022-08-23T10:27:36+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/60/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG" alt="A Decade Later - Reflecting on Disaster Relief 2.0 - June 2022" />
                     Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File
@@ -219,7 +244,7 @@
         <media:content url="https://digitalhumanitarians.com/media/posts/58/Mitigating-physical-risk-posed-by-education-technology-To-children-in-displacement-situations-March-2022.png" medium="image" />
 
         <updated>2022-05-09T19:05:02+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://digitalhumanitarians.com/media/posts/58/Mitigating-physical-risk-posed-by-education-technology-To-children-in-displacement-situations-March-2022.png" alt="Mitigating physical risk posed by (education) technology - To children in displacement situations - March 2022" />
                     Written by Dijie (Sariel) Lei and Andrej Verity View PDF File
@@ -231,31 +256,6 @@
                 <p><a href="https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/sariel-lei/" target=" _blank=">Dijie (Sariel) Lei</a>  and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
 <p> </p>
 <p><a class="pdf-button" href="https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n" target="_blank" rel="noopener noreferrer">View PDF File</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mitigating physical risk posed by technology - To responders in volatile situations - March 2022</title>
-        <author>
-            <name>DH Network</name>
-        </author>
-        <link href="https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/"/>
-        <id>https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/</id>
-        <media:content url="https://digitalhumanitarians.com/media/posts/57/Mitigating-physical-risk-posed-by-technology-To-responders-in-volatile-situations.png" medium="image" />
-
-        <updated>2022-05-09T18:59:51+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://digitalhumanitarians.com/media/posts/57/Mitigating-physical-risk-posed-by-technology-To-responders-in-volatile-situations.png" alt="Mitigating physical risk posed by technology - To responders in volatile situations - March 2022" />
-                    Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://digitalhumanitarians.com/media/posts/57/Mitigating-physical-risk-posed-by-technology-To-responders-in-volatile-situations.png" class="type:primaryImage" alt="Mitigating physical risk posed by technology - To responders in volatile situations - March 2022" /></p>
-                <p><a href="https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn" target="_blank" rel="noopener noreferrer"></a>Written by <a href="https://www.linkedin.com/in/kristen-pearn/" target=" _blank=">Kristen Pearn</a>, <a href="https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/" target=" _blank=">Sarah A Jabbar</a> and <a href="https://www.linkedin.com/in/andrejverity/" target="_blank" rel="noopener noreferrer">Andrej Verity</a></p>
-<p> </p>
-<p><a class="pdf-button" href="https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn" target="_blank" rel="noopener noreferrer">View PDF File</a></p>
             ]]>
         </content>
     </entry>

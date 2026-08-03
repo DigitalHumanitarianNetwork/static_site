@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/",
+            "url": "https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/",
+            "title": "The Only Human in the Room - July 2026",
+            "summary": "Written by Mohammed Juzer Batliwala and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/ybwizbcdxknn2cw8td08hcnl5hc1cl2e\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/mjuzer/\" target=\"_blank\" rel=\"noopener\">Mohammed Juzer Batliwala</a>  and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/h58zg1wiqcyeaeee9nyljt21dv1hxovt\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
+            "image": "https://digitalhumanitarians.com/media/posts/71/Only-Human-in-the-Room-front-cover.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-03T17:31:39+02:00",
+            "date_modified": "2026-08-03T17:34:02+02:00"
+        },
+        {
             "id": "https://digitalhumanitarians.com/generative_ai_for_humanitarians-september_2023/",
             "url": "https://digitalhumanitarians.com/generative_ai_for_humanitarians-september_2023/",
             "title": "Generative AI for Humanitarians - September 2023",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-05-09T19:05:02+02:00",
             "date_modified": "2022-10-11T09:29:33+02:00"
-        },
-        {
-            "id": "https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
-            "url": "https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_technology_to_responders_in_volatile_situations/",
-            "title": "Mitigating physical risk posed by technology - To responders in volatile situations - March 2022",
-            "summary": "Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a>, <a href=\"https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/\" target=\" _blank=\">Sarah A Jabbar</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/dill5onk6qh0x1shd3emp9lo0uxgwbrn\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
-            "image": "https://digitalhumanitarians.com/media/posts/57/Mitigating-physical-risk-posed-by-technology-To-responders-in-volatile-situations.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-09T18:59:51+02:00",
-            "date_modified": "2022-10-07T16:01:27+02:00"
         }
     ]
 }
