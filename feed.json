@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://digitalhumanitarians.com/getting-past-the-hype-navigating-the-future-of-humanitarian-innovation-august-2026/",
+            "url": "https://digitalhumanitarians.com/getting-past-the-hype-navigating-the-future-of-humanitarian-innovation-august-2026/",
+            "title": "Getting Past the Hype - Navigating the Future of Humanitarian Innovation - August 2026",
+            "summary": "Written by James Brennan and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/dwf4msy0zr0jge8vuddtxv86ylyypzfb\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/james-brennan-53aa99217/\" target=\"_blank\" rel=\"noopener\">James Brennan</a>  and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/dwf4msy0zr0jge8vuddtxv86ylyypzfb\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
+            "image": "https://digitalhumanitarians.com/media/posts/72/Getting-Past-the-Hype-Navigating-the-Future-of-Humanitarian-Innovation-August-2026.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-28T16:52:19+02:00",
+            "date_modified": "2026-08-28T16:59:22+02:00"
+        },
+        {
             "id": "https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/",
             "url": "https://digitalhumanitarians.com/the-only-human-in-the-room-july-2026/",
             "title": "The Only Human in the Room - July 2026",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-08-23T10:27:36+02:00",
             "date_modified": "2022-10-28T15:20:16+02:00"
-        },
-        {
-            "id": "https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
-            "url": "https://digitalhumanitarians.com/mitigating_physical_risk_posed_by_education_technology_to_children_in_displacement_situations/",
-            "title": "Mitigating physical risk posed by (education) technology - To children in displacement situations - March 2022",
-            "summary": "Written by Dijie (Sariel) Lei and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/sariel-lei/\" target=\" _blank=\">Dijie (Sariel) Lei</a>  and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/9fw8slk3s9hto2b2569qit11gc43k30n\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
-            "image": "https://digitalhumanitarians.com/media/posts/58/Mitigating-physical-risk-posed-by-education-technology-To-children-in-displacement-situations-March-2022.png",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-09T19:05:02+02:00",
-            "date_modified": "2022-10-11T09:29:33+02:00"
         }
     ]
 }
