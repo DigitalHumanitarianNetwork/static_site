@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://digitalhumanitarians.com/humanity-in-the-loop-principled-ai-adaptation-for-humanitarian-organizations-september-2026/",
+            "url": "https://digitalhumanitarians.com/humanity-in-the-loop-principled-ai-adaptation-for-humanitarian-organizations-september-2026/",
+            "title": "Humanity in the Loop - Principled AI Adaptation for Humanitarian Organizations - September 2026",
+            "summary": "Written by Sophie Bryne and Andrej Verity View PDF File",
+            "content_html": "<p><a href=\"https://app.box.com/s/dwf4msy0zr0jge8vuddtxv86ylyypzfb\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by Sophie Bryne and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a href=\"https://app.box.com/s/0aedbo134hztbrqoh1rhblgg5od0xaqe\" class=\"pdf-button\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
+            "image": "https://digitalhumanitarians.com/media/posts/73/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026.jpg",
+            "author": {
+                "name": "DH Network"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T14:39:01+02:00",
+            "date_modified": "2026-09-22T14:40:59+02:00"
+        },
+        {
             "id": "https://digitalhumanitarians.com/getting-past-the-hype-navigating-the-future-of-humanitarian-innovation-august-2026/",
             "url": "https://digitalhumanitarians.com/getting-past-the-hype-navigating-the-future-of-humanitarian-innovation-august-2026/",
             "title": "Getting Past the Hype - Navigating the Future of Humanitarian Innovation - August 2026",
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2026-08-03T17:31:39+02:00",
-            "date_modified": "2026-08-03T17:34:02+02:00"
+            "date_modified": "2026-09-22T14:41:06+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/generative_ai_for_humanitarians-september_2023/",
@@ -53,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2023-09-22T16:54:45+02:00",
-            "date_modified": "2023-09-22T16:57:47+02:00"
+            "date_modified": "2026-09-22T14:41:23+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/data_and_security_responsibilities_of_the_individual_humanitarian-_june_2023/",
@@ -68,7 +83,7 @@
             "tags": [
             ],
             "date_published": "2023-08-28T11:12:27+02:00",
-            "date_modified": "2023-09-22T16:58:00+02:00"
+            "date_modified": "2026-09-22T14:41:13+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/how_earth_observation_can_enable_anticipatory_action_in_humanitarian_crises_october_2022/",
@@ -83,7 +98,7 @@
             "tags": [
             ],
             "date_published": "2023-01-03T16:55:53+01:00",
-            "date_modified": "2023-01-03T16:55:53+01:00"
+            "date_modified": "2026-09-22T14:41:20+02:00"
         },
         {
             "id": "https://digitalhumanitarians.com/identifying_places-improving_data_connectivity_through_unique_identifiers/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-10-07T16:01:21+02:00",
             "date_modified": "2022-12-16T11:51:40+01:00"
-        },
-        {
-            "id": "https://digitalhumanitarians.com/a_decade_later_reflecting_on_disaster_relief_2_june_2022/",
-            "url": "https://digitalhumanitarians.com/a_decade_later_reflecting_on_disaster_relief_2_june_2022/",
-            "title": "A Decade Later - Reflecting on Disaster Relief 2.0 - June 2022",
-            "summary": "Written by Kristen Pearn, Sarah A Jabbar and Andrej Verity View PDF File",
-            "content_html": "<p><a href=\"https://app.box.com/s/tsskepkv7m1b7pfle0io6q3fyx2t43yd\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Written by <a href=\"https://www.linkedin.com/in/kristen-pearn/\" target=\" _blank=\">Kristen Pearn</a>, <a href=\"https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/\" target=\" _blank=\">Sarah A Jabbar</a> and <a href=\"https://www.linkedin.com/in/andrejverity/\" target=\"_blank\" rel=\"noopener noreferrer\">Andrej Verity</a></p>\n<p> </p>\n<p><a class=\"pdf-button\" href=\"https://app.box.com/s/tsskepkv7m1b7pfle0io6q3fyx2t43yd\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF File</a></p>",
-            "image": "https://digitalhumanitarians.com/media/posts/60/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG",
-            "author": {
-                "name": "DH Network"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-23T10:27:36+02:00",
-            "date_modified": "2022-10-28T15:20:16+02:00"
         }
     ]
 }
